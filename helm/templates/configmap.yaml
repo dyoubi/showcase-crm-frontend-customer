@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: {{ include "bitplay-frontend.fullname" . }}-env
+  labels:
+    {{- include "bitplay-frontend.labels" . | nindent 4 }}
+data:
+  {{- toYaml .Values.envVars | nindent 2 }}

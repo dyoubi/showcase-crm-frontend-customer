@@ -1,0 +1,234 @@
+variables:
+  EGC_IO_GROUP_NAMESPACE: "egc-io"
+  EGC_IO_NPM_TOKEN: ${EGC_IO_REGISTRY_TOKEN}
+  GIT_DEPTH: '1'
+  IMAGE_TAG: git-${CI_COMMIT_SHA}
+  RING_GROUP_NAMESPACE: "ring"
+  RING_NPM_TOKEN: ${RING_REGISTRY_TOKEN}
+
+  # Build resources
+  KUBECONFIG_SUFFIX: DEFAULT
+  KUBERNETES_CPU_LIMIT: 2000m
+  KUBERNETES_CPU_REQUEST: 1500m
+  KUBERNETES_MEMORY_LIMIT: 7Gi
+  KUBERNETES_MEMORY_REQUEST: 5Gi
+
+  DEVELOP_NAMESPACE: bitplay
+  DEVELOP_HOST: develop.bitplay.com
+
+  MAIN_NAMESPACE: bitplay
+  MAIN_HOST: main.bitplay.com
+
+  PRODUCTION_NAMESPACE: bitplay
+  PRODUCTION_HOST: bitplay.com
+
+  REVIEW_APP_HOST_SUFFIX: .bitplay.com
+  REVIEW_APP_NAMESPACE: bitplay-review
+
+default:
+  tags:
+    - kubernetes
+
+before_script:
+  - ./scripts/generate_npmrc_file.sh # Run for yarn v.1.X
+  # - ./scripts/generate_yarnrc_file.sh # This should replace previous script once yarn > v.2.X
+
+stages:
+  - build
+  - test
+  - deploy
+  - review
+  # - upload-sourcemaps
+
+.rule-develop: &rule-develop
+  if: $CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_BRANCH == "develop"
+  variables:
+    IMAGE_TAG2: git-${CI_COMMIT_SHA}
+    IMAGE_TAG: branch-${CI_COMMIT_BRANCH}
+.rule-main: &rule-main
+  if: $CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_BRANCH == "main"
+  variables:
+    IMAGE_TAG2: git-${CI_COMMIT_SHA}
+    IMAGE_TAG: branch-${CI_COMMIT_BRANCH}
+.rule-tag: &rule-tag
+  if: $CI_PIPELINE_SOURCE == "push" && $CI_COMMIT_TAG =~ /^v\d+.\d+$/
+  variables:
+    KUBECONFIG_SUFFIX: PRODUCTION
+    IMAGE_TAG: ${CI_COMMIT_TAG}
+
+.cond-merge-request: &cond-merge-request $CI_PIPELINE_SOURCE == "merge_request_event"
+
+.rules-all: &rules-all
+  - *rule-develop
+  - *rule-main
+  - *rule-tag
+  - if: *cond-merge-request
+
+###
+### Build
+###
+
+build:
+  stage: build
+  image:
+    name: gcr.io/kaniko-project/executor:debug
+    entrypoint: ['']
+  variables:
+    CI_REGISTRY_IMAGE: ${REGISTRY_IMAGE}
+    NEXT_PUBLIC_BACKEND_URL_INTERNAL: https://develop.casino.egamingchain.io
+    #NEXT_AUTH_API_URL: https://develop.casino.egamingchain.io
+    #NEXT_AUTH_API_CONNECTION:
+    #NEXT_AUTH_API_CLIENT_ID:
+    NEXT_CASINO_SLUG: egcbitplay
+    KANIKO_ARGS: --build-arg "CI_COMMIT_SHA=${CI_COMMIT_SHA}"
+  script:
+    - ./scripts/kaniko_build_image.sh
+  rules: *rules-all
+
+.run-image:
+  image: ${REGISTRY_IMAGE}:${IMAGE_TAG}
+  before_script:
+    - cd /app
+  variables:
+    GIT_STRATEGY: none
+  needs:
+    - build
+
+###
+### Test
+###
+
+.test:
+  stage: test
+  extends: .run-image
+  allow_failure: true
+  rules: *rules-all
+
+test-lint:
+  extends: .test
+  script:
+    - yarn run lint:types
+    - yarn run lint
+
+test-jest:
+  extends: .test
+  script:
+    - yarn run test:coverage
+  artifacts:
+    when: always
+    expire_in: "7 days"
+    reports:
+      junit: coverage/junit.xml
+      coverage_report:
+        coverage_format: cobertura
+        path: coverage/cobertura-coverage.xml
+
+
+###
+### Deploy
+###
+
+.deploy:
+  stage: deploy
+  image: alpine/helm
+  script:
+    - export VAR_NAME="KUBECONFIG_${KUBECONFIG_SUFFIX}"
+    - export KUBECONFIG="${!VAR_NAME}"
+    - >
+      helm
+      upgrade
+      --install
+      --create-namespace
+      --reset-values
+      -f ./helm/values.yaml
+      --set image.repository=${REGISTRY_IMAGE}
+      --set image.tag=${IMAGE_TAG}
+      ${HELM_ARGS}
+      "${HELM_NAME}"
+      ./helm
+
+deploy-develop:
+  extends: .deploy
+  variables:
+    HELM_NAME: ${CI_PROJECT_NAME}-develop
+    HELM_NAMESPACE: $DEVELOP_NAMESPACE
+    HELM_ARGS: -f ./helm/values.develop.yaml
+  environment:
+    name: develop
+    deployment_tier: testing
+    url: https://${DEVELOP_HOST}
+  rules:
+    - *rule-develop
+
+deploy-main:
+  extends: .deploy
+  before_script:
+    - apk add --no-cache curl jq
+    - curl -sS "https://api.cloudflare.com/client/v4/ips" | jq -j '.result.ipv4_cidrs | sort | join(", ")' > /tmp/cloudflare_cidrs
+  variables:
+    HELM_NAME: ${CI_PROJECT_NAME}-main
+    HELM_NAMESPACE: $MAIN_NAMESPACE
+    HELM_ARGS: -f ./helm/values.main.yaml --set-file ingress.annotations.alb\.ingress\.kubernetes\.io/inbound-cidrs=/tmp/cloudflare_cidrs
+  environment:
+    name: main
+    deployment_tier: staging
+    url: https://${MAIN_HOST}
+  rules:
+    - *rule-main
+
+deploy-production:
+  extends: .deploy
+  before_script:
+    - apk add --no-cache curl jq
+    - curl -sS "https://api.cloudflare.com/client/v4/ips" | jq -j '.result.ipv4_cidrs | sort | join(", ")' > /tmp/cloudflare_cidrs
+  variables:
+    KUBECONFIG: $KUBECONFIG_PRODUCTION
+    HELM_NAME: ${CI_PROJECT_NAME}-production
+    HELM_NAMESPACE: $PRODUCTION_NAMESPACE
+    HELM_ARGS: -f ./helm/values.production.yaml --set-file ingress.annotations.alb\.ingress\.kubernetes\.io/inbound-cidrs=/tmp/cloudflare_cidrs
+  environment:
+    name: production
+    deployment_tier: production
+    url: https://${PRODUCTION_HOST}
+  rules:
+    - *rule-tag
+
+###
+### Review
+###
+
+review:
+  extends: .deploy
+  needs:
+    - build
+  variables:
+    HELM_NAME: ${CI_PROJECT_NAME}-mr${CI_MERGE_REQUEST_IID}
+    HELM_NAMESPACE: ${REVIEW_APP_NAMESPACE}
+    HELM_ARGS: -f ./helm/values.review.yaml --set ingress.hosts[0].host=mr${CI_MERGE_REQUEST_IID}${REVIEW_APP_HOST_SUFFIX} --set envVars.NEXTAUTH_URL=https://mr${CI_MERGE_REQUEST_IID}${REVIEW_APP_HOST_SUFFIX}/api/auth
+  environment:
+    name: review/mr${CI_MERGE_REQUEST_IID}${REVIEW_APP_HOST_SUFFIX}
+    deployment_tier: development
+    url: https://mr${CI_MERGE_REQUEST_IID}${REVIEW_APP_HOST_SUFFIX}
+    on_stop: stop-review
+    auto_stop_in: 2 weeks
+  rules:
+    - if: *cond-merge-request
+
+stop-review:
+  extends: .deploy
+  script:
+    - export VAR_NAME="KUBECONFIG_${KUBECONFIG_SUFFIX}"
+    - export KUBECONFIG="${!VAR_NAME}"
+    - helm uninstall "${HELM_NAME}"
+  variables:
+    HELM_NAME: ${CI_PROJECT_NAME}-mr${CI_MERGE_REQUEST_IID}
+    HELM_NAMESPACE: ${REVIEW_APP_NAMESPACE}
+    GIT_STRATEGY: none
+  allow_failure: true
+  needs: []
+  environment:
+    name: review/mr${CI_MERGE_REQUEST_IID}${REVIEW_APP_HOST_SUFFIX}
+    action: stop
+  rules:
+    - if: *cond-merge-request
+      when: manual

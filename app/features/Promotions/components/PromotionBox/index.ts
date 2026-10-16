@@ -1,0 +1,1 @@
+export { PromotionBox } from './PromotionBox';

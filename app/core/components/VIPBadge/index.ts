@@ -1,0 +1,1 @@
+export { VIPBadge } from './VIPBadge';

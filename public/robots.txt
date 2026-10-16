@@ -1,0 +1,17 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api
+Disallow: /settings
+Disallow: /favorites
+Disallow: /verification
+Disallow: /_next/
+Disallow: /cdn-cgi/
+Disallow: /*?startDate=
+Disallow: /*&endDate=
+
+# Host
+Host: https://bitplay.com
+
+# Sitemaps
+Sitemap: https://bitplay.com/sitemap.xml

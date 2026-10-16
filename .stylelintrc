@@ -1,0 +1,20 @@
+{
+  "extends": ["stylelint-config-standard", "stylelint-config-styled-components", "stylelint-config-prettier"],
+  "processors": ["stylelint-processor-styled-components"],
+  "plugins": ["stylelint-order"],
+  "rules": {
+    "declaration-empty-line-before": "never",
+    "at-rule-no-unknown": [
+      true,
+      {
+        "ignoreAtRules": ["function", "if", "mixin", "include", "each"]
+      }
+    ],
+    "value-keyword-case": [
+      "lower",
+      {
+        "ignoreKeywords": ["dummyValue"]
+      }
+    ]
+  }
+}

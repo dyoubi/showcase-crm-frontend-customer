@@ -1,0 +1,1 @@
+export { DepositsTable } from './DepositsTable';

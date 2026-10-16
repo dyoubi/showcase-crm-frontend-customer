@@ -1,0 +1,1 @@
+export { BonusClaimModal } from './BonusClaimModal';

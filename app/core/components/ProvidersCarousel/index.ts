@@ -1,0 +1,1 @@
+export { ProvidersCarousel } from './ProvidersCarousel';

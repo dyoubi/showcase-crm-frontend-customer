@@ -1,0 +1,1 @@
+export { EllipsizedText } from './EllipsizedText';

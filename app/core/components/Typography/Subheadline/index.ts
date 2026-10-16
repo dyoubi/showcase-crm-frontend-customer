@@ -1,0 +1,1 @@
+export { Subheadline } from './Subheadline';

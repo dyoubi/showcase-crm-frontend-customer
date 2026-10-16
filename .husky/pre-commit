@@ -1,0 +1,5 @@
+node manage-translations.js csv
+
+yarn test
+
+node manage-translations.js json

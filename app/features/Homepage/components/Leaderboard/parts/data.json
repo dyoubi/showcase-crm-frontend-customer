@@ -1,0 +1,538 @@
+{
+  "descending": [
+    [
+      {
+        "id": "blackbeards-bounty",
+        "position": 1,
+        "member": {
+          "rtp": 132,
+          "title": "Blackbeard's Bounty",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/94bd17aa0f6c5cda44aa23c802e1588ccb938cb43de686ab5d431a7130af9afc?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/94bd17aa0f6c5cda44aa23c802e1588ccb938cb43de686ab5d431a7130af9afc?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "book-of-shadows",
+        "position": 2,
+        "member": {
+          "rtp": 106,
+          "title": "Book of Shadows",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/a1cf66706a9d87e25f77b155f10f2aabcbf668af4ee01798caa30d223c284880?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/a1cf66706a9d87e25f77b155f10f2aabcbf668af4ee01798caa30d223c284880?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "dick-the-farmer",
+        "position": 3,
+        "member": {
+          "rtp": 102,
+          "title": "Dick the Farmer",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/04c78d027969ed84a4d432c72920127708c4e8f80dc1a428dda1f830a51c5f2d?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/04c78d027969ed84a4d432c72920127708c4e8f80dc1a428dda1f830a51c5f2d?revision=0" }
+          }
+        }
+      }
+    ],
+    [
+      {
+        "id": "cash-it-multiplayer-double-heat",
+        "position": 1,
+        "member": {
+          "rtp": 136,
+          "title": "Cash It Multiplayer: Double Heat",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/f585d56c97d5e9253cd5a0715cf0dff9895980be92b12632703f868f117cad97?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/f585d56c97d5e9253cd5a0715cf0dff9895980be92b12632703f868f117cad97?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "mine-and-win",
+        "position": 2,
+        "member": {
+          "rtp": 125,
+          "title": "Mine and Win",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/8068bcb0c16f7d43bd999ca4de5bca3b536e76e1bc46804d69896bff2ae6f044?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/8068bcb0c16f7d43bd999ca4de5bca3b536e76e1bc46804d69896bff2ae6f044?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "retro-trader",
+        "position": 3,
+        "member": {
+          "rtp": 99,
+          "title": "Retro Trader",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/2c188366992e017509393365cf1e63f7d953965fa5e5bc91290ff6c37c6bf796?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/2c188366992e017509393365cf1e63f7d953965fa5e5bc91290ff6c37c6bf796?revision=0" }
+          }
+        }
+      }
+    ],
+    [
+      {
+        "id": "san-quentin",
+        "position": 1,
+        "member": {
+          "rtp": 110,
+          "title": "San Quentin",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/5b5c402cb601ded1c304934381e1aa9134a80754373cd9bf0a167dca44704642?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/5b5c402cb601ded1c304934381e1aa9134a80754373cd9bf0a167dca44704642?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "penalty-roulette",
+        "position": 2,
+        "member": {
+          "rtp": 104,
+          "title": "Penalty Roulette",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/3e9b3d40cb321f54a708189bb9879e551c32aa1995e62b0a8d9fd18bcf76dace?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/3e9b3d40cb321f54a708189bb9879e551c32aa1995e62b0a8d9fd18bcf76dace?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "gates-of-hades",
+        "position": 3,
+        "member": {
+          "rtp": 97,
+          "title": "Gates of Hades",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/b6bc745dd10af696ba7b6c47b38b90574fcff0bfe520cd1a4f2a9bd4d07b3b21?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/b6bc745dd10af696ba7b6c47b38b90574fcff0bfe520cd1a4f2a9bd4d07b3b21?revision=0" }
+          }
+        }
+      }
+    ],
+    [
+      {
+        "id": "cash-it-multiplayer-double-heat",
+        "position": 1,
+        "member": {
+          "rtp": 139,
+          "title": "Cash It Multiplayer: Double Heat",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/f585d56c97d5e9253cd5a0715cf0dff9895980be92b12632703f868f117cad97?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/f585d56c97d5e9253cd5a0715cf0dff9895980be92b12632703f868f117cad97?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "blackbeards-bounty",
+        "position": 2,
+        "member": {
+          "rtp": 97,
+          "title": "Blackbeard's Bounty",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/94bd17aa0f6c5cda44aa23c802e1588ccb938cb43de686ab5d431a7130af9afc?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/94bd17aa0f6c5cda44aa23c802e1588ccb938cb43de686ab5d431a7130af9afc?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "mine-and-win",
+        "position": 3,
+        "member": {
+          "rtp": 96,
+          "title": "Mine and Win",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/8068bcb0c16f7d43bd999ca4de5bca3b536e76e1bc46804d69896bff2ae6f044?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/8068bcb0c16f7d43bd999ca4de5bca3b536e76e1bc46804d69896bff2ae6f044?revision=0" }
+          }
+        }
+      }
+    ],
+    [
+      {
+        "id": "lucky-monkey",
+        "position": 1,
+        "member": {
+          "rtp": 135,
+          "title": "Lucky Monkey",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/0eb6d15add550844d3d94b8869253c0600f8cd5d9aaaee0dd72945f183e7221f?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/0eb6d15add550844d3d94b8869253c0600f8cd5d9aaaee0dd72945f183e7221f?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "xways-hoarder-xsplit",
+        "position": 2,
+        "member": {
+          "rtp": 124,
+          "title": "Xways Hoarder Xsplit",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/7d6c37188f33504290f64318afbf26cc82757970b91154189694507a36905fda?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/7d6c37188f33504290f64318afbf26cc82757970b91154189694507a36905fda?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "sakura-fortune-2",
+        "position": 3,
+        "member": {
+          "rtp": 103,
+          "title": "Sakura Fortune 2",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/6a44ea2b9cae2c3f6b19cc565c3186c2b7602aee284be3cee2d62b1aa3a5673a?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/6a44ea2b9cae2c3f6b19cc565c3186c2b7602aee284be3cee2d62b1aa3a5673a?revision=0" }
+          }
+        }
+      }
+    ],
+    [
+      {
+        "id": "dick-the-farmer",
+        "position": 1,
+        "member": {
+          "rtp": 110,
+          "title": "Dick the Farmer",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/04c78d027969ed84a4d432c72920127708c4e8f80dc1a428dda1f830a51c5f2d?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/04c78d027969ed84a4d432c72920127708c4e8f80dc1a428dda1f830a51c5f2d?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "cash-it-multiplayer-double-heat",
+        "position": 2,
+        "member": {
+          "rtp": 105,
+          "title": "Cash It Multiplayer: Double Heat",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/f585d56c97d5e9253cd5a0715cf0dff9895980be92b12632703f868f117cad97?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/f585d56c97d5e9253cd5a0715cf0dff9895980be92b12632703f868f117cad97?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "xways-hoarder-xsplit",
+        "position": 3,
+        "member": {
+          "rtp": 101,
+          "title": "Xways Hoarder Xsplit",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/7d6c37188f33504290f64318afbf26cc82757970b91154189694507a36905fda?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/7d6c37188f33504290f64318afbf26cc82757970b91154189694507a36905fda?revision=0" }
+          }
+        }
+      }
+    ],
+    [
+      {
+        "id": "gates-of-hades",
+        "position": 1,
+        "member": {
+          "rtp": 110,
+          "title": "Gates of Hades",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/b6bc745dd10af696ba7b6c47b38b90574fcff0bfe520cd1a4f2a9bd4d07b3b21?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/b6bc745dd10af696ba7b6c47b38b90574fcff0bfe520cd1a4f2a9bd4d07b3b21?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "penalty-roulette",
+        "position": 2,
+        "member": {
+          "rtp": 99,
+          "title": "Penalty Roulette",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/3e9b3d40cb321f54a708189bb9879e551c32aa1995e62b0a8d9fd18bcf76dace?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/3e9b3d40cb321f54a708189bb9879e551c32aa1995e62b0a8d9fd18bcf76dace?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "blackbeards-bounty",
+        "position": 3,
+        "member": {
+          "rtp": 98,
+          "title": "Blackbeard's Bounty",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/94bd17aa0f6c5cda44aa23c802e1588ccb938cb43de686ab5d431a7130af9afc?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/94bd17aa0f6c5cda44aa23c802e1588ccb938cb43de686ab5d431a7130af9afc?revision=0" }
+          }
+        }
+      }
+    ]
+  ],
+   "ascending": [
+    [
+      {
+        "id": "lucky-monkey",
+        "position": 1,
+        "member": {
+          "rtp": 69,
+          "title": "Lucky Monkey",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/0eb6d15add550844d3d94b8869253c0600f8cd5d9aaaee0dd72945f183e7221f?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/0eb6d15add550844d3d94b8869253c0600f8cd5d9aaaee0dd72945f183e7221f?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "san-quentin",
+        "position": 2,
+        "member": {
+          "rtp": 71,
+          "title": "San Quentin",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/5b5c402cb601ded1c304934381e1aa9134a80754373cd9bf0a167dca44704642?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/5b5c402cb601ded1c304934381e1aa9134a80754373cd9bf0a167dca44704642?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "mine-and-win",
+        "position": 3,
+        "member": {
+          "rtp": 73,
+          "title": "Mine and Win",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/8068bcb0c16f7d43bd999ca4de5bca3b536e76e1bc46804d69896bff2ae6f044?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/8068bcb0c16f7d43bd999ca4de5bca3b536e76e1bc46804d69896bff2ae6f044?revision=0" }
+          }
+        }
+      }
+    ],
+    [
+      {
+        "id": "plinko-xy",
+        "position": 1,
+        "member": {
+          "rtp": 65,
+          "title": "Plinko XY",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/c4442decb372a8959d195634b8c95ad3d0a7c38d82e2165e4c12ca4954fe1c66?revision=2" },
+            "mobile": { "url": "https://content.egamingchain.io/file/c4442decb372a8959d195634b8c95ad3d0a7c38d82e2165e4c12ca4954fe1c66?revision=2" }
+          }
+        }
+      },
+      {
+        "id": "dick-the-farmer",
+        "position": 2,
+        "member": {
+          "rtp": 79,
+          "title": "Dick the Farmer",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/04c78d027969ed84a4d432c72920127708c4e8f80dc1a428dda1f830a51c5f2d?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/04c78d027969ed84a4d432c72920127708c4e8f80dc1a428dda1f830a51c5f2d?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "fire-in-the-hole-xbomb",
+        "position": 3,
+        "member": {
+          "rtp": 81,
+          "title": "Fire in the Hole Xbomb",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/ac142c5c230a7cd117cb1a04f94e24286270831b9f6c7a33857761bb99a5a3d5?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/ac142c5c230a7cd117cb1a04f94e24286270831b9f6c7a33857761bb99a5a3d5?revision=0" }
+          }
+        }
+      }
+    ],
+    [
+      {
+        "id": "sakura-fortune-2",
+        "position": 1,
+        "member": {
+          "rtp": 68,
+          "title": "Sakura Fortune 2",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/6a44ea2b9cae2c3f6b19cc565c3186c2b7602aee284be3cee2d62b1aa3a5673a?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/6a44ea2b9cae2c3f6b19cc565c3186c2b7602aee284be3cee2d62b1aa3a5673a?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "plinko-xy",
+        "position": 2,
+        "member": {
+          "rtp": 69,
+          "title": "Plinko XY",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/c4442decb372a8959d195634b8c95ad3d0a7c38d82e2165e4c12ca4954fe1c66?revision=2" },
+            "mobile": { "url": "https://content.egamingchain.io/file/c4442decb372a8959d195634b8c95ad3d0a7c38d82e2165e4c12ca4954fe1c66?revision=2" }
+          }
+        }
+      },
+      {
+        "id": "dick-the-farmer",
+        "position": 3,
+        "member": {
+          "rtp": 85,
+          "title": "Dick the Farmer",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/04c78d027969ed84a4d432c72920127708c4e8f80dc1a428dda1f830a51c5f2d?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/04c78d027969ed84a4d432c72920127708c4e8f80dc1a428dda1f830a51c5f2d?revision=0" }
+          }
+        }
+      }
+    ],
+    [
+      {
+        "id": "sakura-fortune-2",
+        "position": 1,
+        "member": {
+          "rtp": 77,
+          "title": "Sakura Fortune 2",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/6a44ea2b9cae2c3f6b19cc565c3186c2b7602aee284be3cee2d62b1aa3a5673a?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/6a44ea2b9cae2c3f6b19cc565c3186c2b7602aee284be3cee2d62b1aa3a5673a?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "retro-trader",
+        "position": 2,
+        "member": {
+          "rtp": 88,
+          "title": "Retro Trader",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/2c188366992e017509393365cf1e63f7d953965fa5e5bc91290ff6c37c6bf796?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/2c188366992e017509393365cf1e63f7d953965fa5e5bc91290ff6c37c6bf796?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "fire-in-the-hole-xbomb",
+        "position": 3,
+        "member": {
+          "rtp": 90,
+          "title": "Fire in the Hole Xbomb",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/ac142c5c230a7cd117cb1a04f94e24286270831b9f6c7a33857761bb99a5a3d5?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/ac142c5c230a7cd117cb1a04f94e24286270831b9f6c7a33857761bb99a5a3d5?revision=0" }
+          }
+        }
+      }
+    ],
+    [
+      {
+        "id": "gates-of-hades",
+        "position": 1,
+        "member": {
+          "rtp": 43,
+          "title": "Gates of Hades",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/b6bc745dd10af696ba7b6c47b38b90574fcff0bfe520cd1a4f2a9bd4d07b3b21?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/b6bc745dd10af696ba7b6c47b38b90574fcff0bfe520cd1a4f2a9bd4d07b3b21?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "big-benji-bonanza",
+        "position": 2,
+        "member": {
+          "rtp": 48,
+          "title": "Big Benji Bonanza",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/fd7c930091f85e3a3201c6b9a1b736f874272a7f0518f73e06bedfe51dc0a761?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/fd7c930091f85e3a3201c6b9a1b736f874272a7f0518f73e06bedfe51dc0a761?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "penalty-roulette",
+        "position": 3,
+        "member": {
+          "rtp": 49,
+          "title": "Penalty Roulette",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/3e9b3d40cb321f54a708189bb9879e551c32aa1995e62b0a8d9fd18bcf76dace?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/3e9b3d40cb321f54a708189bb9879e551c32aa1995e62b0a8d9fd18bcf76dace?revision=0" }
+          }
+        }
+      }
+    ],
+    [
+      {
+        "id": "big-benji-bonanza",
+        "position": 1,
+        "member": {
+          "rtp": 65,
+          "title": "Big Benji Bonanza",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/fd7c930091f85e3a3201c6b9a1b736f874272a7f0518f73e06bedfe51dc0a761?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/fd7c930091f85e3a3201c6b9a1b736f874272a7f0518f73e06bedfe51dc0a761?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "san-quentin",
+        "position": 2,
+        "member": {
+          "rtp": 69,
+          "title": "San Quentin",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/5b5c402cb601ded1c304934381e1aa9134a80754373cd9bf0a167dca44704642?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/5b5c402cb601ded1c304934381e1aa9134a80754373cd9bf0a167dca44704642?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "plinko-xy",
+        "position": 3,
+        "member": {
+          "rtp": 71,
+          "title": "Plinko XY",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/c4442decb372a8959d195634b8c95ad3d0a7c38d82e2165e4c12ca4954fe1c66?revision=2" },
+            "mobile": { "url": "https://content.egamingchain.io/file/c4442decb372a8959d195634b8c95ad3d0a7c38d82e2165e4c12ca4954fe1c66?revision=2" }
+          }
+        }
+      }
+    ],
+    [
+      {
+        "id": "mine-and-win",
+        "position": 1,
+        "member": {
+          "rtp": 71,
+          "title": "Mine and Win",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/8068bcb0c16f7d43bd999ca4de5bca3b536e76e1bc46804d69896bff2ae6f044?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/8068bcb0c16f7d43bd999ca4de5bca3b536e76e1bc46804d69896bff2ae6f044?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "lucky-monkey",
+        "position": 2,
+        "member": {
+          "rtp": 72,
+          "title": "Lucky Monkey",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/0eb6d15add550844d3d94b8869253c0600f8cd5d9aaaee0dd72945f183e7221f?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/0eb6d15add550844d3d94b8869253c0600f8cd5d9aaaee0dd72945f183e7221f?revision=0" }
+          }
+        }
+      },
+      {
+        "id": "dick-the-farmer",
+        "position": 3,
+        "member": {
+          "rtp": 85,
+          "title": "Dick the Farmer",
+          "image": {
+            "desktop": { "url": "https://content.egamingchain.io/file/04c78d027969ed84a4d432c72920127708c4e8f80dc1a428dda1f830a51c5f2d?revision=0" },
+            "mobile": { "url": "https://content.egamingchain.io/file/04c78d027969ed84a4d432c72920127708c4e8f80dc1a428dda1f830a51c5f2d?revision=0" }
+          }
+        }
+      }
+    ]
+  ]
+}

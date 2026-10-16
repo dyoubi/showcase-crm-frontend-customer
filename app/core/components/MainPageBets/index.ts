@@ -1,0 +1,1 @@
+export { MainPageBets } from './MainPageBets';

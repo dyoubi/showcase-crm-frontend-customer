@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  next:
+    build:
+      context: .
+      args:
+        CI_COMMIT_SHA: dev
+    command: yarn dev
+    environment:
+      EXPOSE_SOURCEMAPS: "1"
+    volumes:
+      - ./:/app:cached
+    ports:
+      - "3000:3000"

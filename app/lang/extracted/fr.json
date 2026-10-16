@@ -1,0 +1,1249 @@
+{
+  "5cc3Tm": {
+    "defaultMessage": "Mot de passe",
+    "description": "password input placeholder"
+  },
+  "account": {
+    "defaultMessage": "Compte"
+  },
+  "account.betLimitCurrencyOptions.dollars": {
+    "defaultMessage": "USD"
+  },
+  "account.betLimitCurrencyOptions.euro": {
+    "defaultMessage": "EUR"
+  },
+  "account.exclusion": {
+    "defaultMessage": "Auto-Exclusion"
+  },
+  "account.freezeAccountAlert": {
+    "defaultMessage": "Vous ne pourrez pas vous connecter à votre compte pendant cette periode."
+  },
+  "account.freezeAccountInfo": {
+    "defaultMessage": "Je comprends et je souhaite geler mon compte pour :"
+  },
+  "account.learnMore": {
+    "defaultMessage": "En savoir plus"
+  },
+  "account.learnMore.link": {
+    "defaultMessage": "Auto-Exclusion"
+  },
+  "account.limitDuration.oneDay": {
+    "defaultMessage": "24 heures"
+  },
+  "account.limitDurationOptions.oneDay": {
+    "defaultMessage": "24 heures"
+  },
+  "account.limitDurationOptions.oneMonth": {
+    "defaultMessage": "1 mois"
+  },
+  "account.limitDurationOptions.sevenDays": {
+    "defaultMessage": "7 jours"
+  },
+  "account.limitDurationOptions.threeMonths": {
+    "defaultMessage": "3 mois"
+  },
+  "account.limitPlaceholder": {
+    "defaultMessage": "Montant"
+  },
+  "account.limitSetup": {
+    "defaultMessage": "Fixer une limite de mise sur votre compte"
+  },
+  "account.limitSetupInfo": {
+    "defaultMessage": "En fixant des limites à zéro, vous supprimez vos limites actuelles."
+  },
+  "account.message.alert": {
+    "defaultMessage": "Vous ne pourrez pas parier plus que votre limite."
+  },
+  "account.message.info": {
+    "defaultMessage": "Cette limite est effective immédiatement."
+  },
+  "account.message.rewrite": {
+    "defaultMessage": "Si vous avez déjà paramétré une limite, celle-ci sera ré-écrite."
+  },
+  "account.request": {
+    "defaultMessage": "Demander une Auto-Exclusion"
+  },
+  "account.selfExclusion.alert": {
+    "defaultMessage": "Vous ne pourrez plus accéder à ce compte ou demander sa ré-ouverture."
+  },
+  "account.selfExclusion.error.username": {
+    "defaultMessage": "Votre username doit correspondre à votre username actuel."
+  },
+  "account.selfExclusion.info": {
+    "defaultMessage": "Votre compte sera fermé immédiatement après validation."
+  },
+  "account.selfExclusion.irreversible": {
+    "defaultMessage": "Cette action est irréversible"
+  },
+  "account.selfExclusion.rewrite": {
+    "defaultMessage": "Pour confirmer cette requête, vous devez renseigner votre 'Username' dans le champ ci-dessous et cliquer sur 'Je comprends'."
+  },
+  "account.selfExclusion.usernameFieldPlaceholder": {
+    "defaultMessage": "Username"
+  },
+  "all": {
+    "defaultMessage": "Tout"
+  },
+  "aml.policy": {
+    "defaultMessage": "Police AML"
+  },
+  "betLimit": {
+    "defaultMessage": "Limite de pari"
+  },
+  "betModal.bet": {
+    "defaultMessage": "Pari"
+  },
+  "betModal.betDate": {
+    "defaultMessage": "Le {date} à {time}"
+  },
+  "betModal.betId": {
+    "defaultMessage": "Bet ID"
+  },
+  "betModal.header": {
+    "defaultMessage": "Détail du pari"
+  },
+  "betModal.multiplier": {
+    "defaultMessage": "Multiplicateur"
+  },
+  "betModal.payout": {
+    "defaultMessage": "Paiement"
+  },
+  "betModal.playGameGeneric": {
+    "defaultMessage": "Jouer"
+  },
+  "bets": {
+    "defaultMessage": "Paris"
+  },
+  "betsTable.amount": {
+    "defaultMessage": "Montant"
+  },
+  "betsTable.betAmount": {
+    "defaultMessage": "Montant du pari"
+  },
+  "betsTable.date": {
+    "defaultMessage": "Date"
+  },
+  "betsTable.empty": {
+    "defaultMessage": "Pas de résultats pour l'historique de paris."
+  },
+  "betsTable.game": {
+    "defaultMessage": "Jeu"
+  },
+  "betsTable.noLogged": {
+    "defaultMessage": "Vous devez être connecté pour voir votre historique de paris."
+  },
+  "betsTable.username": {
+    "defaultMessage": "Username"
+  },
+  "bitcoin": {
+    "defaultMessage": "Bitcoin"
+  },
+  "bonusModal.bonusAvailableInThisCurrency": {
+    "defaultMessage": "Votre bonus est disponible dans cette cryptomonnaie"
+  },
+  "bonusModal.button": {
+    "defaultMessage": "Activer"
+  },
+  "bonusModal.endAtText": {
+    "defaultMessage": "Ce bonus est disponible jusqu'au {date}."
+  },
+  "bonusModal.noBonusAvailable": {
+    "defaultMessage": "Aucun bonus disponible"
+  },
+  "bonusModal.selectYourFavouriteCurrency": {
+    "defaultMessage": "Sélectionner votre crypto-monnaie favorite."
+  },
+  "bottomBar.casino": {
+    "defaultMessage": "Casino"
+  },
+  "bottomBar.menu": {
+    "defaultMessage": "Menu"
+  },
+  "bottomBar.wallet": {
+    "defaultMessage": "Portefeuille"
+  },
+  "btc": {
+    "defaultMessage": "BTC"
+  },
+  "cST5I+": {
+    "defaultMessage": "Connexion",
+    "description": "login form submit button"
+  },
+  "carousel.providers": {
+    "defaultMessage": "Fournisseurs"
+  },
+  "carousel.recommended": {
+    "defaultMessage": "Bitplay Picks"
+  },
+  "carousel.searchResults": {
+    "defaultMessage": "Résultats de recherche"
+  },
+  "carousel.seeAll": {
+    "defaultMessage": "Voir tout"
+  },
+  "casino": {
+    "defaultMessage": "Casino"
+  },
+  "categoryLoadMore": {
+    "defaultMessage": "Charger plus"
+  },
+  "changePassword.errorConfirmPasswordField": {
+    "defaultMessage": "Mot de passe doivent correspondre"
+  },
+  "chat.english": {
+    "defaultMessage": "Anglais"
+  },
+  "chat.french": {
+    "defaultMessage": "Francais"
+  },
+  "chat.placeholder": {
+    "defaultMessage": "Entrez votre message"
+  },
+  "chat.rules": {
+    "defaultMessage": "Règles"
+  },
+  "chat.send": {
+    "defaultMessage": "Envoyer"
+  },
+  "closeAlertButton": {
+    "defaultMessage": "Fermer"
+  },
+  "common.thisFieldIsRequired": {
+    "defaultMessage": "Ce champ est obligatoire"
+  },
+  "completeRegistrationModal.city": {
+    "defaultMessage": "Ville"
+  },
+  "completeRegistrationModal.country": {
+    "defaultMessage": "Pays"
+  },
+  "completeRegistrationModal.errorCityFieldEmpty": {
+    "defaultMessage": "Ville est un champ obligatoire"
+  },
+  "completeRegistrationModal.errorCountryFieldEmpty": {
+    "defaultMessage": "Pays est un champ obligatoire"
+  },
+  "completeRegistrationModal.errorFirstNameFieldEmpty": {
+    "defaultMessage": "Prénom est un champ obligatoire"
+  },
+  "completeRegistrationModal.errorLastNameFieldEmpty": {
+    "defaultMessage": "Nom est un champ obligatoire"
+  },
+  "completeRegistrationModal.errorMinCharactersLong": {
+    "defaultMessage": "{fieldName} doit être de {minNumOfCharacters} caractères minimum"
+  },
+  "completeRegistrationModal.errorNotAllowedCharacters": {
+    "defaultMessage": "Les caractères spéciaux ne sont pas permis"
+  },
+  "completeRegistrationModal.errorZipFieldEmpty": {
+    "defaultMessage": "Code ZIP est un champ obligatoire"
+  },
+  "completeRegistrationModal.firstname": {
+    "defaultMessage": "Prénom"
+  },
+  "completeRegistrationModal.header": {
+    "defaultMessage": "Merci de confirmer votre identité pour accéder aux jeux."
+  },
+  "completeRegistrationModal.lastname": {
+    "defaultMessage": "Nom"
+  },
+  "completeRegistrationModal.minCharactersLong": {
+    "defaultMessage": "{fieldName} doit être de {minNumOfCharacters} caractères minimum"
+  },
+  "completeRegistrationModal.notAllowedCharacters": {
+    "defaultMessage": "Les caractères spéciaux ne sont pas permis"
+  },
+  "completeRegistrationModal.submitButtonLabel": {
+    "defaultMessage": "Confirmer"
+  },
+  "completeRegistrationModal.zip": {
+    "defaultMessage": "Code Postal"
+  },
+  "confirmationModal.confirm": {
+    "defaultMessage": "Je comprends"
+  },
+  "copyBox.copySuccessMessage": {
+    "defaultMessage": "Copié dans le presse-papiers!"
+  },
+  "deposits": {
+    "defaultMessage": "Dépôts"
+  },
+  "dispute.resolution": {
+    "defaultMessage": "Résolution des litiges"
+  },
+  "email": {
+    "defaultMessage": "Email"
+  },
+  "error.fetchData": {
+    "defaultMessage": "Erreur lors de l'extraction des données"
+  },
+  "error.somethingWentWrong": {
+    "defaultMessage": "Quelque chose a mal tourné",
+    "description": "main title for error page"
+  },
+  "error.somethingWentWrongCopy": {
+    "defaultMessage": "Nous sommes désolés, mais la page que vous recherchez n'existe pas ou une autre erreur s'est produite.",
+    "description": "main descritpion for general error"
+  },
+  "eth": {
+    "defaultMessage": "ETH"
+  },
+  "ethereum": {
+    "defaultMessage": "Ethereum"
+  },
+  "eur": {
+    "defaultMessage": "EUR"
+  },
+  "fairness.rng": {
+    "defaultMessage": "Méthodes de test de l'équité et de la RNG"
+  },
+  "favorites": {
+    "defaultMessage": "Favoris"
+  },
+  "favourites": {
+    "defaultMessage": "Favoris"
+  },
+  "featuresBuyIn": {
+    "defaultMessage": "Achat de features"
+  },
+  "fiat.description": {
+    "defaultMessage": "Tous les paris et transactions seront réglés en équivalent crypto. Pour plus de détails, n'hésitez pas à contacter notre support en direct."
+  },
+  "fiat.note": {
+    "defaultMessage": "Veuillez noter qu'il s'agit d'approximations."
+  },
+  "fiat.saveButton": {
+    "defaultMessage": "Jouer maintenant"
+  },
+  "footer.about": {
+    "defaultMessage": "A propos de nous"
+  },
+  "footer.affiliate": {
+    "defaultMessage": "Affiliation"
+  },
+  "footer.aml": {
+    "defaultMessage": "Police AML"
+  },
+  "footer.casino": {
+    "defaultMessage": "Casino"
+  },
+  "footer.cinemaMode": {
+    "defaultMessage": "Mode Cinéma"
+  },
+  "footer.copyright": {
+    "defaultMessage": "@ {currentYear} Bitplay.com | Tous droits réservés."
+  },
+  "footer.favorites": {
+    "defaultMessage": "Favoris"
+  },
+  "footer.fullScreen": {
+    "defaultMessage": "Plein Ecran"
+  },
+  "footer.gambleAware": {
+    "defaultMessage": "Jeu Responsable"
+  },
+  "footer.games": {
+    "defaultMessage": "Jeux"
+  },
+  "footer.home": {
+    "defaultMessage": "Accueil"
+  },
+  "footer.language": {
+    "defaultMessage": "Langue"
+  },
+  "footer.liveSupport": {
+    "defaultMessage": "Support Live"
+  },
+  "footer.partners": {
+    "defaultMessage": "Partenaires: partners@bitplay.com"
+  },
+  "footer.press": {
+    "defaultMessage": "Presse: press@bitplay.com"
+  },
+  "footer.privacy": {
+    "defaultMessage": "Politique de confidentialité"
+  },
+  "footer.promotions": {
+    "defaultMessage": "Promotions"
+  },
+  "footer.selfExclusion": {
+    "defaultMessage": "Auto-Exclusion"
+  },
+  "footer.support": {
+    "defaultMessage": "Support"
+  },
+  "footer.termsOfService": {
+    "defaultMessage": "Conditions d'utilisation"
+  },
+  "footer.vip": {
+    "defaultMessage": "VIP"
+  },
+  "forgotPasswordForm.emailSentIfValid": {
+    "defaultMessage": "Si votre email est valide, vous recevrez un lien rapidement"
+  },
+  "forgotPasswordForm.entersEmail": {
+    "defaultMessage": "Merci de renseigner votre adresse email pour recevoir un lien de réinitialisation pour votre mot de passe"
+  },
+  "freezeAccount": {
+    "defaultMessage": "Geler mon compte"
+  },
+  "freezeAccount.message.alert": {
+    "defaultMessage": "Vous NE POURREZ PAS VOUS CONNECTER tant que votre compte n'aura pas été débloqué."
+  },
+  "freezeAccount.message.info": {
+    "defaultMessage": "Votre compte sera gelé immédiatement après validation."
+  },
+  "freezeAccount.message.rewrite": {
+    "defaultMessage": "Cette action est irréversible"
+  },
+  "game.balance": {
+    "defaultMessage": "Afficher la balance en"
+  },
+  "game.funPlay": {
+    "defaultMessage": "Fun Play"
+  },
+  "game.rating": {
+    "defaultMessage": "{rating}"
+  },
+  "game.realPlay": {
+    "defaultMessage": "Real Play"
+  },
+  "game.register": {
+    "defaultMessage": "Senregistrer"
+  },
+  "gameDescription.description": {
+    "defaultMessage": "Description"
+  },
+  "gamesShow": {
+    "defaultMessage": "Games Show"
+  },
+  "home": {
+    "defaultMessage": "Accueil"
+  },
+  "leaderboard.buttonPlayer": {
+    "defaultMessage": "Joueur"
+  },
+  "leaderboard.buttonRTP": {
+    "defaultMessage": "RTP"
+  },
+  "leaderboard.player": {
+    "defaultMessage": "Classement Joueur"
+  },
+  "leaderboard.rtp": {
+    "defaultMessage": "Classement RTP"
+  },
+  "liveCasino": {
+    "defaultMessage": "Live Casino"
+  },
+  "loginForm.emailFieldPlaceholder": {
+    "defaultMessage": "Entrez votre email"
+  },
+  "loginForm.forgotYourPassword": {
+    "defaultMessage": "Mot de passe oublié?"
+  },
+  "loginForm.generalError": {
+    "defaultMessage": "Quelque chose n'a pas marché"
+  },
+  "loginForm.generalSuccessText": {
+    "defaultMessage": "L'opération s'est déroulée avec succès"
+  },
+  "loginForm.passwordFieldPlaceholder": {
+    "defaultMessage": "Entrez votre mot de passe"
+  },
+  "loginForm.rememberMe": {
+    "defaultMessage": "Se souvenir de moi"
+  },
+  "loginForm.submitButton": {
+    "defaultMessage": "Connexion"
+  },
+  "loginForm.wrongCredentials": {
+    "defaultMessage": "Mauvaises informations d'identification"
+  },
+  "loginModal.login": {
+    "defaultMessage": "Connexion"
+  },
+  "loginModal.register": {
+    "defaultMessage": "S'enregistrer"
+  },
+  "newReleases": {
+    "defaultMessage": "Nouveautés"
+  },
+  "notification.errorTitle": {
+    "defaultMessage": "Erreur"
+  },
+  "notification.successTitle": {
+    "defaultMessage": "Succès"
+  },
+  "notifications": {
+    "defaultMessage": "Notifications"
+  },
+  "notifications.generalErrorText": {
+    "defaultMessage": "Quelque chose n'a pas marché"
+  },
+  "notifications.generalInfoText": {
+    "defaultMessage": "Quelques informations à savoir"
+  },
+  "notifications.generalTitleError": {
+    "defaultMessage": "Erreur"
+  },
+  "notifications.generalTitleInfo": {
+    "defaultMessage": "Information"
+  },
+  "notifications.generalTitleSuccess": {
+    "defaultMessage": "Succès"
+  },
+  "notifications.generalTitleWarning": {
+    "defaultMessage": "Avertissement"
+  },
+  "notifications.generalWarningText": {
+    "defaultMessage": "Attention"
+  },
+  "offer.aggrement": {
+    "defaultMessage": "Contrat d'offre"
+  },
+  "other": {
+    "defaultMessage": "Autre"
+  },
+  "page.game": {
+    "defaultMessage": "Jeu"
+  },
+  "page.home": {
+    "defaultMessage": "Accueil"
+  },
+  "page.notifications": {
+    "defaultMessage": "Notifications"
+  },
+  "page.policies": {
+    "defaultMessage": "Politiques"
+  },
+  "page.promotionDetails": {
+    "defaultMessage": "Détails de promotion"
+  },
+  "page.promotions": {
+    "defaultMessage": "Promotions"
+  },
+  "page.promotions.moreDetails": {
+    "defaultMessage": "Plus de détails"
+  },
+  "page.providers": {
+    "defaultMessage": "Fournisseurs"
+  },
+  "page.settings": {
+    "defaultMessage": "Paramètres"
+  },
+  "page.transactions": {
+    "defaultMessage": "Transactions"
+  },
+  "page.vip": {
+    "defaultMessage": "VIP"
+  },
+  "preferences": {
+    "defaultMessage": "Préférences"
+  },
+  "preferences.checkboxDescription.ghostMode": {
+    "defaultMessage": "Vos paris n'apparaîtront pas dans le flux de paris public et dans l'aperçu des paris."
+  },
+  "preferences.checkboxDescription.rain": {
+    "defaultMessage": "S'exclure des 'rains' du chat"
+  },
+  "preferences.checkboxDescription.statistics": {
+    "defaultMessage": "Les autres utilisateurs ne pourront pas consulter vos gains, vos pertes et vos statistiques de mise."
+  },
+  "preferences.checkboxLabel.ghostMode": {
+    "defaultMessage": "Activer le mode Fantôme"
+  },
+  "preferences.checkboxLabel.rain": {
+    "defaultMessage": "S'exclure des 'rains'"
+  },
+  "preferences.checkboxLabel.statistics": {
+    "defaultMessage": "Cacher vos statistiques"
+  },
+  "preferences.community": {
+    "defaultMessage": "Communauté"
+  },
+  "preferences.save": {
+    "defaultMessage": "Enregistrer"
+  },
+  "privacy": {
+    "defaultMessage": "Confidentialité"
+  },
+  "privacy.description": {
+    "defaultMessage": "La confidentialité des utilisateurs est l'une des valeurs fondamentales de BitPlay. Ces paramètres vous permettent d'être complètement anonyme par rapport aux autres joueurs."
+  },
+  "privacy.exclusion.caption": {
+    "defaultMessage": "Besoin de faire une pause avec BitPlay ? Pour lancer le processus automatisé d'auto-exclusion, veuillez cliquer sur le bouton ci-dessous pour recevoir les instructions de confirmation par e-mail."
+  },
+  "profile.header": {
+    "defaultMessage": "Profil"
+  },
+  "profile.joinedOn": {
+    "defaultMessage": "Rejoint le"
+  },
+  "promotions": {
+    "defaultMessage": "Promotions"
+  },
+  "providers": {
+    "defaultMessage": "Fournisseurs"
+  },
+  "registerForm.bonusConditions": {
+    "defaultMessage": "Conditions des bonus"
+  },
+  "registerForm.bonusFieldLabel": {
+    "defaultMessage": "J'ai lu, compris et accepte les {bonusConditions}"
+  },
+  "registerForm.dobText": {
+    "defaultMessage": "Date de naissance"
+  },
+  "registerForm.emailFieldPlaceholder": {
+    "defaultMessage": "Entrez votre email"
+  },
+  "registerForm.errorEmailFieldEmpty": {
+    "defaultMessage": "Email est un champ obligatoire"
+  },
+  "registerForm.errorEmailFieldFormat": {
+    "defaultMessage": "Mauvais format d'email"
+  },
+  "registerForm.errorFieldEmpty": {
+    "defaultMessage": "Champ est obligatoire"
+  },
+  "registerForm.errorPasswordFieldEmpty": {
+    "defaultMessage": "Mot de passe est une champ obligatoire"
+  },
+  "registerForm.errorPasswordFieldRequiredCharacters": {
+    "defaultMessage": "Le mot de passe doit comprendre au moins une lettre majuscule, une lettre minuscule, un chiffre et un caractère spécial (!@#$%^&*+/*)."
+  },
+  "registerForm.errorUsernameFieldEmpty": {
+    "defaultMessage": "Username est un champ obligatoire"
+  },
+  "registerForm.offerAgreement": {
+    "defaultMessage": "Contrat d'offre"
+  },
+  "registerForm.offerFieldLabel": {
+    "defaultMessage": "J'ai lu, compris et accepte le {offerAgreement}"
+  },
+  "registerForm.passwordFieldPlaceholder": {
+    "defaultMessage": "Entrez votre mot de passe"
+  },
+  "registerForm.privacyPolicy": {
+    "defaultMessage": "Politique de confidentialité"
+  },
+  "registerForm.submitButtonLabel": {
+    "defaultMessage": "S'enregistrer"
+  },
+  "registerForm.successDialogCopy": {
+    "defaultMessage": "Votre compte a été créé avec succès. Nous vous avons envoyé un e-mail avec un lien d'activation. Cliquez sur le lien pour activer votre compte et commencer à jouer !"
+  },
+  "registerForm.termsAndConditions": {
+    "defaultMessage": "Conditions générales d'utilisation"
+  },
+  "registerForm.termsFieldLabel": {
+    "defaultMessage": "J'ai lu, compris et accepte les {termsAndConditions} & {privacyPolicy}"
+  },
+  "registerForm.underageWarning": {
+    "defaultMessage": "Vous devez avoir 18 ans au minimum"
+  },
+  "registerForm.usernameFieldPlaceholder": {
+    "defaultMessage": "Entrez votre username"
+  },
+  "resetPasswordForm.confirmPassword": {
+    "defaultMessage": "Confirmer le mot de passe"
+  },
+  "resetPasswordForm.confirmPasswordDontMatch": {
+    "defaultMessage": "Les mots de passe ne correspondent pas"
+  },
+  "resetPasswordForm.newPassword": {
+    "defaultMessage": "Nouveau mot de passe"
+  },
+  "resetPasswordForm.passwordUpdated": {
+    "defaultMessage": "Votre mot de passe a été mis à jour"
+  },
+  "resetPasswordForm.title": {
+    "defaultMessage": "Ré-initialisation du mot de passe"
+  },
+  "responsible.gaming": {
+    "defaultMessage": "Responsible Gaming"
+  },
+  "runGame.errorMessage": {
+    "defaultMessage": "Cette machine n'est pas disponible dans votre géolocalisation. Si vous avez un VPN, pensez à le désactiver."
+  },
+  "runGame.errorTitle": {
+    "defaultMessage": "Erreur"
+  },
+  "search.loading": {
+    "defaultMessage": "Chargement"
+  },
+  "search.noResults": {
+    "defaultMessage": "Pas de résultats"
+  },
+  "search.placeholder": {
+    "defaultMessage": "Rechercher votre jeu"
+  },
+  "security.code": {
+    "defaultMessage": "Code Two Factor"
+  },
+  "security.confirmPassword": {
+    "defaultMessage": "Confirmer le nouveau mot de passe"
+  },
+  "security.description": {
+    "defaultMessage": "Pour garantir la sécurité de votre compte, activez l'authentification à deux facteurs."
+  },
+  "security.enable": {
+    "defaultMessage": "Activer"
+  },
+  "security.instruction": {
+    "defaultMessage": "Copiez ce code dans votre application d'authentification"
+  },
+  "security.newPassword": {
+    "defaultMessage": "Nouveau mot de passe"
+  },
+  "security.oldPassword": {
+    "defaultMessage": "Ancien mot de passe"
+  },
+  "security.password": {
+    "defaultMessage": "Mot de passe"
+  },
+  "security.twoFactor": {
+    "defaultMessage": "Two Factor"
+  },
+  "security.warning": {
+    "defaultMessage": "Ne montrez pas ce code !"
+  },
+  "settings.countryCode": {
+    "defaultMessage": "Code Pays"
+  },
+  "settings.emailPlaceholder": {
+    "defaultMessage": "exem*******@gmail.com"
+  },
+  "settings.phoneNumber": {
+    "defaultMessage": "Numéro de téléphone"
+  },
+  "settings.phonePlaceholder": {
+    "defaultMessage": "Numéro de téléphone"
+  },
+  "settings.preferences.errorMessage": {
+    "defaultMessage": "Quelque chose a mal tourné"
+  },
+  "settings.preferences.successMessage": {
+    "defaultMessage": "Vos préférences ont été enregistrées."
+  },
+  "settings.resend": {
+    "defaultMessage": "Renvoyer"
+  },
+  "settings.save": {
+    "defaultMessage": "Enregistrer"
+  },
+  "settingsDisclaimer": {
+    "defaultMessage": "Nous ne desservons que les zones figurant dans la liste des indicatifs de pays disponibles."
+  },
+  "showPasswordButton": {
+    "defaultMessage": "Afficher le mot de passe"
+  },
+  "slots": {
+    "defaultMessage": "Machines à sous"
+  },
+  "slotsGames": {
+    "defaultMessage": "Machines à sous"
+  },
+  "standards.required": {
+    "defaultMessage": "Ce champ est obligatoire"
+  },
+  "terms.of.service": {
+    "defaultMessage": "Conditions d'utilisation"
+  },
+  "topBar.balanceLoading": {
+    "defaultMessage": "Chargement"
+  },
+  "topBar.inGame": {
+    "defaultMessage": "En jeu"
+  },
+  "topBar.login": {
+    "defaultMessage": "Connexion"
+  },
+  "topBar.menuLogout": {
+    "defaultMessage": "Déconnexion"
+  },
+  "topBar.menuProfile": {
+    "defaultMessage": "Profil"
+  },
+  "topBar.menuSettings": {
+    "defaultMessage": "Paramètres"
+  },
+  "topBar.menuTransactions": {
+    "defaultMessage": "Transactions"
+  },
+  "topBar.menuVIP": {
+    "defaultMessage": "VIP"
+  },
+  "topBar.menuWallet": {
+    "defaultMessage": "Portefeuille"
+  },
+  "topBar.register": {
+    "defaultMessage": "S'enregistrer"
+  },
+  "topBar.search": {
+    "defaultMessage": "Rechercher"
+  },
+  "topBar.walletButton": {
+    "defaultMessage": "Mon portefeuille"
+  },
+  "topBar.walletDisplayInFiat": {
+    "defaultMessage": "Afficher en FIAT"
+  },
+  "transaction.gift": {
+    "defaultMessage": "Cadeau"
+  },
+  "transaction.other": {
+    "defaultMessage": "Autre"
+  },
+  "transactionModal.header": {
+    "defaultMessage": "Transaction"
+  },
+  "transactionModal.placedBy": {
+    "defaultMessage": "Réalisé par"
+  },
+  "transactionModal.status": {
+    "defaultMessage": "Statut"
+  },
+  "transactionModal.transaction": {
+    "defaultMessage": "Transaction"
+  },
+  "transactions.empty": {
+    "defaultMessage": "Aucun résultat disponible pour cette transaction."
+  },
+  "transactionsTable.noLogged": {
+    "defaultMessage": "Vous devez être connecté pour voir votre historique de paris."
+  },
+  "tron": {
+    "defaultMessage": "Tron"
+  },
+  "trx": {
+    "defaultMessage": "TRX"
+  },
+  "usd": {
+    "defaultMessage": "USD"
+  },
+  "validationModal.checkYourEmail": {
+    "defaultMessage": "Vérifiez vos emails"
+  },
+  "validationModal.header": {
+    "defaultMessage": "Tout bon!"
+  },
+  "vip.blockExpert": {
+    "defaultMessage": "Block Expert"
+  },
+  "vip.earlyAdopter": {
+    "defaultMessage": "Early Adopter"
+  },
+  "vip.genesisLegend": {
+    "defaultMessage": "Genesis Legend"
+  },
+  "vip.luckyMiner": {
+    "defaultMessage": "Lucky Miner"
+  },
+  "vip.masterTrader": {
+    "defaultMessage": "Master Trader"
+  },
+  "vip.satoshiEnthusiast": {
+    "defaultMessage": "Satoshi Enthusiast"
+  },
+  "vip.whale": {
+    "defaultMessage": "Whale"
+  },
+  "vipClub": {
+    "defaultMessage": "Club VIP"
+  },
+  "vipModal.benefits": {
+    "defaultMessage": "Bénéfices"
+  },
+  "vipModal.bonus": {
+    "defaultMessage": "Bonus"
+  },
+  "vipModal.header": {
+    "defaultMessage": "VIP"
+  },
+  "vipModal.learnMore": {
+    "defaultMessage": "En savoir plus sur notre Club VIP"
+  },
+  "vipModal.lotteryCopy": {
+    "defaultMessage": "Pariez pour gagner des tickets pour une loterie où tout le monde peut gagner. Un seul ticket peut vous permettre de partager 10 000 $ par mois. Comme 1 000 $ misés équivalent à un ticket, gagnez autant de tickets que possible pour vous donner les meilleures chances de gagner gros !"
+  },
+  "vipModal.lotteryCopy2": {
+    "defaultMessage": "Pour une description détaillée des prix et de la structure des paiements, veuillez consulter l'<b>annonce officielle</b>."
+  },
+  "vipModal.lotteryHeader": {
+    "defaultMessage": "Loterie mensuelle de $10,000"
+  },
+  "vipModal.lotteryTickets": {
+    "defaultMessage": "Votre nombre de ticket est de : {tickets}"
+  },
+  "vipModal.reload": {
+    "defaultMessage": "Reload"
+  },
+  "vipModal.reloadClaimDate": {
+    "defaultMessage": "Le prochain bonus sera disponible le"
+  },
+  "vipModal.vipCopy": {
+    "defaultMessage": "Votre progression correspond à la somme accumulée de vos mises sur notre casino. Le fait de passer d'un niveau à l'autre vous permet d'obtenir des récompenses plus importantes, des bonus de niveau supérieur et un traitement VIP exclusif."
+  },
+  "vipModal.yourProgressValue": {
+    "defaultMessage": "Votre progrès VIP"
+  },
+  "walletBuy.errorAmountFieldMinAmount": {
+    "defaultMessage": "Montant minimum: {minAmount} {currency}"
+  },
+  "walletBuy.errorMessage": {
+    "defaultMessage": "Une erreur a bloqué votre requête."
+  },
+  "walletBuy.errorProviderRequired": {
+    "defaultMessage": "Veuillez choisir un prestataire de paiement"
+  },
+  "walletBuy.errorTermsRequired": {
+    "defaultMessage": "Vous devez accepter les conditions générales"
+  },
+  "walletBuy.offersError": {
+    "defaultMessage": "Nous n'avons pas réussi à trouver d'offres."
+  },
+  "walletBuy.successRedirect": {
+    "defaultMessage": "Nous vous redirigeons vers votre offre."
+  },
+  "walletDeposit.2faCopy": {
+    "defaultMessage": "Améliorez la sécurité de votre compte avec l'authentification à deux facteurs"
+  },
+  "walletDeposit.2faEnableButton": {
+    "defaultMessage": "Activer 2FA"
+  },
+  "walletDeposit.btcCopy": {
+    "defaultMessage": "N'envoyez que des BTC à cette adresse, 1 confirmation(s) requise(s). Nous n'acceptons pas le BEP20 de Binance."
+  },
+  "walletDeposit.ethCopy": {
+    "defaultMessage": "N'envoyez que de l'ETH à cette adresse, 12 confirmations sont nécessaires.  Nous n'acceptons pas les dépôts depuis des Smart Contracts."
+  },
+  "walletDeposit.ethLimitationCopy": {
+    "defaultMessage": "Nous ne prenons en charge que les adresses ERC20 sur la blockchain Ethereum. Ne déposez pas et ne retirez pas vers une adresse autre qu'une adresse Ethereum."
+  },
+  "walletDeposit.inactiveContact": {
+    "defaultMessage": "En cas de doute, vous pouvez démarrer une discussion avec notre service d'assistance."
+  },
+  "walletDeposit.inactiveContact.link": {
+    "defaultMessage": "ici"
+  },
+  "walletDeposit.inactiveCopy": {
+    "defaultMessage": "Cette crypto-monnaie n'est pas disponible pour les dépôts pour le moment. Vous pouvez toujours utiliser d'autres crypto-monnaies disponibles dans la liste pour effectuer un dépôt."
+  },
+  "walletDeposit.trxCopy": {
+    "defaultMessage": "N'envoyer que des TRX à cette adresse, 1 confirmation(s) requise(s). Nous n'acceptons pas les BEP20 de Binance."
+  },
+  "walletDeposit.trxLimitationCopy": {
+    "defaultMessage": "BitPlay n'accepte pas les smart contracts TRX"
+  },
+  "walletModal.addressInput": {
+    "defaultMessage": "Adresse"
+  },
+  "walletModal.amountInput": {
+    "defaultMessage": "Montant"
+  },
+  "walletModal.deposit": {
+    "defaultMessage": "Dépôt"
+  },
+  "walletModal.header": {
+    "defaultMessage": "Portefeuille"
+  },
+  "walletModal.withdraw": {
+    "defaultMessage": "Retrait"
+  },
+  "walletModal.withdrawCostCopy1": {
+    "defaultMessage": "Votre retrait aura"
+  },
+  "walletModal.withdrawCostCopy2": {
+    "defaultMessage": "soustrait du solde restant pour couvrir les frais nécessaires au traitement de la transaction."
+  },
+  "walletModal.withdrawMaxButton": {
+    "defaultMessage": "Max"
+  },
+  "walletModal.withdrawMinimalCopy": {
+    "defaultMessage": "Le montant minimum est de"
+  },
+  "walletWithdraw.errorAddressField": {
+    "defaultMessage": "L'adresse est un champ obligatoire"
+  },
+  "walletWithdraw.errorAmountField": {
+    "defaultMessage": "Le montant est un champ obligatoire"
+  },
+  "walletWithdraw.errorAmountFormat": {
+    "defaultMessage": "Le montant ne doit contenir que des chiffres, des points ou des virgules."
+  },
+  "walletWithdraw.errorCurrencyField": {
+    "defaultMessage": "La devise est un champ obligatoire"
+  },
+  "walletWithdraw.errorValidNumber": {
+    "defaultMessage": "Le montant doit être un nombre valide"
+  },
+  "widget.learnMore": {
+    "defaultMessage": "En savoir plus"
+  },
+  "withdrawals": {
+    "defaultMessage": "Retraits"
+  },
+  "youNeedToBeAuthenticated": {
+    "defaultMessage": "Vous devez être authentifié pour avoir accès à cette page."
+  },
+  "z82q+i": {
+    "defaultMessage": "E-mail",
+    "description": "email input placeholder"
+  },
+  "completeRegistrationModal.errorMaxCharactersLong": {
+    "defaultMessage": "{fieldName} doit contenir au maximum {maxNumOfCharacters} caractères."
+  },
+  "cookieConsent.acceptCookies": {
+    "defaultMessage": "Accepter"
+  },
+  "cookieConsent.acceptCookiesMessage": {
+    "defaultMessage": "Nous utilisons des cookies pour améliorer votre expérience de navigation, analyser le trafic sur le site et personnaliser le contenu. En cliquant sur Accepter, vous consentez à ce que nous utilisions des cookies."
+  },
+  "cookieConsent.moreInformation": {
+    "defaultMessage": "Plus d'informations"
+  },
+  "cookieConsent.title": {
+    "defaultMessage": "Cookies et vie privée."
+  },
+  "error.inCaseOfDoubtsChatSupport": {
+    "defaultMessage": "En cas de doute, vous pouvez commencer une discussion avec notre service d'assistance."
+  },
+  "error.somethingWentWrongTryAgainOrReloadPage": {
+    "defaultMessage": "Quelque chose n'a pas fonctionné. Veuillez réessayer ou recharger la page si le problème persiste."
+  },
+  "footer.english": {
+    "defaultMessage": "Anglais"
+  },
+  "footer.french": {
+    "defaultMessage": "Français"
+  },
+  "global.action": {
+    "defaultMessage": "Action"
+  },
+  "global.address": {
+    "defaultMessage": "Adresse"
+  },
+  "global.amount": {
+    "defaultMessage": "Montant"
+  },
+  "global.cancel": {
+    "defaultMessage": "Annuler"
+  },
+  "global.category": {
+    "defaultMessage": "Catégorie"
+  },
+  "global.date": {
+    "defaultMessage": "Date"
+  },
+  "global.fees": {
+    "defaultMessage": "Frais"
+  },
+  "global.learnMore": {
+    "defaultMessage": "En savoir plus"
+  },
+  "global.loading": {
+    "defaultMessage": "Chargement"
+  },
+  "global.password": {
+    "defaultMessage": "Mot de passe"
+  },
+  "global.retract": {
+    "defaultMessage": "Annuler"
+  },
+  "global.status": {
+    "defaultMessage": "Statut"
+  },
+  "global.username": {
+    "defaultMessage": "Username"
+  },
+  "loginForm.userNotActivated": {
+    "defaultMessage": "Votre compte n'est pas encore activé. Veuillez vérifier votre courrier électronique ou contacter le service d'assistance."
+  },
+  "notification.infoTitle": {
+    "defaultMessage": "Information"
+  },
+  "privacy.successExclusion": {
+    "defaultMessage": "Votre session est terminée. Votre compte est maintenant restreint."
+  },
+  "registerForm.errorEmailDomainFormat": {
+    "defaultMessage": "Le domaine doit être compris entre 1 et 64 caractères"
+  },
+  "registerForm.errorEmailLocalFormat": {
+    "defaultMessage": "La partie locale du courriel doit comporter entre 1 et 64 caractères."
+  },
+  "registerForm.errorPasswordCharacterNotAllowed": {
+    "defaultMessage": "Caractère non autorisé"
+  },
+  "registerForm.errorPasswordFormat": {
+    "defaultMessage": "Format de mot de passe non valide"
+  },
+  "registerForm.marketingAcceptation": {
+    "defaultMessage": "J'accepte de recevoir des communications marketing, y compris des promotions et des offres spéciales."
+  },
+  "sortBy.hint": {
+    "defaultMessage": "Trier par"
+  },
+  "success.withdrawRetract": {
+    "defaultMessage": "Votre demande de retrait a été annulée"
+  },
+  "success.withdrawSubmission": {
+    "defaultMessage": "Votre demande de retrait a été enregistrée"
+  },
+  "validation.isRequired": {
+    "defaultMessage": "Ce champ est obligatoire"
+  },
+  "walletModal.calculatedFees": {
+    "defaultMessage": "Frais calculés"
+  },
+  "walletModal.totalEstimatedAmount": {
+    "defaultMessage": "Montant total estimé"
+  },
+  "walletModal.transactionFees": {
+    "defaultMessage": "Frais de transaction"
+  },
+  "walletModal.youWillReceive": {
+    "defaultMessage": "Vous recevrez"
+  },
+  "walletWithdraw.errorAddressFieldInvalid": {
+    "defaultMessage": "Adresse invalide"
+  },
+  "walletWithdraw.errorAmountFieldMaxAmount": {
+    "defaultMessage": "Retrait maximum : {maxAmount} {currency}"
+  },
+  "walletWithdraw.errorAmountFieldMinAmount": {
+    "defaultMessage": "Retrait minimum : {minWithdrawal} {currency}"
+  },
+  "withdrawal.retractTitle": {
+    "defaultMessage": "Voulez-vous annuler votre retrait ?"
+  },
+  "blocked.message": {
+    "defaultMessage": "Désolé, ce site n'est pas disponible dans votre géolocalisation."
+  },
+  "emailActivation.errorLead": {
+    "defaultMessage": "Nous avons rencontré une erreur lors de l'activation de votre compte. Veuillez contacter le support."
+  },
+  "emailActivation.successLead": {
+    "defaultMessage": "Votre compte a été activé avec succès."
+  },
+  "notification.success": {
+    "defaultMessage": "Succès"
+  },
+  "forgetPassword.warningLead": {
+    "defaultMessage": "Veuillez vérifier votre lien et ré-essayer."
+  },
+  "global.createNewPassword": {
+    "defaultMessage": "Créer un nouveau mot de passe"
+  },
+  "global.submit": {
+    "defaultMessage": "Valider"
+  },
+  "notification.warningTitle": {
+    "defaultMessage": "Attention"
+  },
+  "validation": {
+    "defaultMessage": "Validation"
+  },
+  "blocked.contact": {
+    "defaultMessage": "Veuillez contacter support [at] bitplay.com si vous avez besoin d'aide supplémentaire"
+  },
+  "blocked.sorry": {
+    "defaultMessage": "Désolé, Bitplay.com n'est pas disponible dans votre région."
+  },
+  "blocked.vpn": {
+    "defaultMessage": "Si vous utilisez un VPN, vous devrez peut-être le désactiver et réessayer."
+  },
+  "filter": {
+    "defaultMessage": "Filtrer"
+  },
+  "providerSelector.noResults": {
+    "defaultMessage": "Aucun résultat trouvé avec les fournisseurs sélectionnés"
+  },
+  "providerSelector.showResults": {
+    "defaultMessage": "Afficher les résultats"
+  },
+  "search.providers": {
+    "defaultMessage": "Rechercher un fournisseur"
+  },
+  "sortByOption.az": {
+    "defaultMessage": "A-Z"
+  },
+  "sortByOption.oldest": {
+    "defaultMessage": "Plus Ancien"
+  },
+  "sortByOption.recent": {
+    "defaultMessage": "Plus Récent"
+  },
+  "sortByOption.za": {
+    "defaultMessage": "Z-A"
+  },
+  "footer.privacyAndSecurity": {
+    "defaultMessage": "Confidentialité et Sécurité"
+  },
+  "walletBuy.termsPassiveNote": {
+    "defaultMessage": "J'accepte que la transaction soit soumise aux {termsAndConditions} & et à {privacyPolicy} de Bitplay."
+  },
+  "buyCrypto.estimateUnavailable": {
+    "defaultMessage": "L'estimation n'est pas disponible pour le moment"
+  },
+  "buyCrypto.method": {
+    "defaultMessage": "Méthodes de paiement"
+  },
+  "buyCrypto.offers": {
+    "defaultMessage": "Offres"
+  },
+  "carousel.buyinfeature": {
+    "defaultMessage": "Achat de bonus"
+  },
+  "carousel.livecasino": {
+    "defaultMessage": "Live Casino"
+  },
+  "carousel.new": {
+    "defaultMessage": "Nouveau"
+  },
+  "carousel.slots": {
+    "defaultMessage": "Slots"
+  },
+  "leaderboard.currencies": {
+    "defaultMessage": "Crypto-Monnaie"
+  },
+  "leaderboard.multiplier": {
+    "defaultMessage": "Multiplicateur"
+  },
+  "leaderboard.rank": {
+    "defaultMessage": "Rang"
+  },
+  "leaderboard.user": {
+    "defaultMessage": "Utilisateur"
+  },
+  "providerSelector.deselectAll": {
+    "defaultMessage": "Tout Désélectionner"
+  },
+  "providerSelector.selectAll": {
+    "defaultMessage": "Tout Sélectionner"
+  },
+  "registerForm.noOffers": {
+    "defaultMessage": "Aucune offre disponible"
+  },
+  "runGame.gameDemoErrorMessage": {
+    "defaultMessage": "Le mode Démo n'est pas disponible sur ce jeu."
+  },
+  "walletBuy.errorAmountTooHigh": {
+    "defaultMessage": "Le montant maximum est: {currency}{amount}"
+  },
+  "walletBuy.errorAmountTooLow": {
+    "defaultMessage": "Le montant minimum est: {currency}{amount}"
+  },
+  "walletModal.buy": {
+    "defaultMessage": "Buy Crypto"
+  },
+  "walletBuy.limitsErrorTooHigh": {
+    "defaultMessage": "Le montant spécifié est trop haut"
+  },
+  "walletBuy.limitsErrorTooLow": {
+    "defaultMessage": "Le montant spécifié est trop bas"
+  },
+  "cryptoBanner.title": {
+    "defaultMessage": "Acheter des cryptos rapidement et facilement."
+  }
+}

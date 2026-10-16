@@ -1,0 +1,22 @@
+.git/
+helm/
+.gitlab-ci.yml
+
+.idea/
+.next/
+node_modules/
+dist/
+*.iml
+webpack-assets.json
+webpack-stats.json
+npm-debug.log
+**/.DS_Store
+.env
+yarn-error.log
+.vscode
+.history
+tsconfig.tsbuildinfo
+app/lang/compiled
+
+# testing
+/coverage

@@ -1,0 +1,53 @@
+envVars:
+  NEXT_PUBLIC_ENV: production
+  NEXT_PUBLIC_MACHINE_SCRIPT_URL: 'https://casino.int.a8r.games/public/sg.js'
+
+  NEXTAUTH_URL: 'http://localhost:3000/api/auth'
+  NEXTAUTH_URL_INTERNAL: http://localhost:3000/api/auth
+  NEXT_PUBLIC_BACKEND_URL: 'https://casino.egamingchain.io'
+  NEXT_PUBLIC_BACKEND_URL_INTERNAL: 'https://casino.egamingchain.io'
+
+  NEXT_AUTH_API_CLIENT_SECRET: 'rUUolEld5yPGl5NFiNuahXIWY4o5ccou'
+  NEXT_AUTH_API_CONNECTION: 'is_JFnhgsIp3EoAPyEO'
+  NEXT_AUTH_API_CLIENT_ID: 'egcbitplay'
+  NEXT_AUTH_API_URL: 'https://authentication.egamingchain.io'
+  NEXT_AUTH_API_AUDIENCE: 'https://casino.egamingchain.io/'
+  NEXT_PUBLIC_COINS_URL: 'https://coins.egamingchain.io'
+  INTERCOM_ATOKEN: 'dG9rOjgzYzFkMDM2XzI4MDhfNDQzY184MzY1XzA3MGIzMGUxNjY2MDoxOjA='
+
+ingress:
+  className: alb
+  externalDns: true
+  annotations:
+    alb.ingress.kubernetes.io/scheme: internet-facing
+    alb.ingress.kubernetes.io/target-type: instance
+    alb.ingress.kubernetes.io/inbound-cidrs: ''
+    alb.ingress.kubernetes.io/ssl-policy: ELBSecurityPolicy-FS-1-2-Res-2019-08
+    alb.ingress.kubernetes.io/ip-address-type: ipv4
+    alb.ingress.kubernetes.io/listen-ports: '[{"HTTPS":443}]'
+    alb.ingress.kubernetes.io/healthcheck-path: /api/health
+  hosts:
+    - host: bitplay.com
+      paths:
+        - path: /
+          pathType: Prefix
+    - host: www.bitplay.com
+      paths:
+        - path: /
+          pathType: Prefix
+
+service:
+  type: NodePort
+
+resources:
+  limits:
+    cpu: 1000m
+    memory: 2048Mi
+  requests:
+    cpu: 250m
+    memory: 1024Mi
+
+autoscaling:
+  enabled: true
+  minReplicas: 2
+  maxReplicas: 5

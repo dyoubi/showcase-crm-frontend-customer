@@ -1,0 +1,22 @@
+envVars:
+  NEXT_PUBLIC_ENV: staging
+  NEXT_PUBLIC_MACHINE_SCRIPT_URL: 'https://casino.int.a8r.games/public/sg.js'
+
+  NEXTAUTH_URL: http://localhost:3000/api/auth
+  NEXTAUTH_URL_INTERNAL: http://localhost:3000/api/auth
+  NEXT_PUBLIC_BACKEND_URL: 'https://develop.casino.egamingchain.io'
+  NEXT_PUBLIC_BACKEND_URL_INTERNAL: 'https://develop.casino.egamingchain.io'
+
+  NEXT_AUTH_API_CLIENT_SECRET: 'ln6q4i0uzW0ISRB8PDOqk2l02B4e3khj'
+  NEXT_AUTH_API_CONNECTION: 'is_F6RXtDjHqhrtI0XC'
+  NEXT_AUTH_API_CLIENT_ID: 'ct_oWmlqyPlngOxZaQ7'
+  NEXT_AUTH_API_URL: 'https://develop.authentication.egamingchain.io'
+  NEXT_AUTH_API_AUDIENCE: 'https://develop.casino.egamingchain.io/'
+  INTERCOM_ATOKEN: 'dG9rOjgzYzFkMDM2XzI4MDhfNDQzY184MzY1XzA3MGIzMGUxNjY2MDoxOjA='
+
+ingress:
+  hosts:
+    - host: develop.bitplay.com
+      paths:
+        - path: /
+          pathType: Prefix

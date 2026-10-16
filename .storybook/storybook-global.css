@@ -1,0 +1,31 @@
+@font-face {
+  font-family: 'Loos Extra Wide';
+  src: url('../public/fonts/Loos_ExtraWide_Light.otf') format('opentype');
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Loos Extra Wide';
+  src: url('../public/fonts/Loos_ExtraWide_Regular.otf') format('opentype');
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Loos Extra Wide';
+  src: url('../public/fonts/Loos_ExtraWide_Bold.otf') format('opentype');
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Loos Extra Wide';
+  src: url('../public/fonts/Loos_ExtraWide_Medium.otf') format('opentype');
+  font-weight: 500;
+  font-display: swap;
+}
+
+body {
+  font-family: 'Loos Extra Wide' !important;
+}

@@ -1,0 +1,1 @@
+export { CompleteRegistrationModal } from './CompleteRegistrationModal';

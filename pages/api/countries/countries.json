@@ -1,0 +1,1633 @@
+[
+  {
+      "full": "field_countrycode_option_ad",
+      "EN": "Andorra",
+      "FR": "Andorre",
+      "active": true,
+      "code": "ad"
+    },
+    {
+      "full": "field_countrycode_option_ae",
+      "EN": "United Arab Emirates",
+      "FR": "Emirats Arabes Unis",
+      "active": true,
+      "code": "ae"
+    },
+    {
+      "full": "field_countrycode_option_ag",
+      "EN": "Antigua and Barbuda",
+      "FR": "Antigua-et-Barbuda",
+      "active": true,
+      "code": "ag"
+    },
+    {
+      "full": "field_countrycode_option_ai",
+      "EN": "Anguilla",
+      "FR": "Anguilla",
+      "active": true,
+      "code": "ai"
+    },
+    {
+      "full": "field_countrycode_option_al",
+      "EN": "Albania",
+      "FR": "Albanie",
+      "active": true,
+      "code": "al"
+    },
+    {
+      "full": "field_countrycode_option_am",
+      "EN": "Armenia",
+      "FR": "Arménie",
+      "active": true,
+      "code": "am"
+    },
+    {
+      "full": "field_countrycode_option_ao",
+      "EN": "Angola",
+      "FR": "Angola",
+      "active": true,
+      "code": "ao"
+    },
+    {
+      "full": "field_countrycode_option_aq",
+      "EN": "Antarctica",
+      "FR": "Antarctique",
+      "active": true,
+      "code": "aq"
+    },
+    {
+      "full": "field_countrycode_option_ar",
+      "EN": "Argentina",
+      "FR": "Argentine",
+      "active": true,
+      "code": "ar"
+    },
+    {
+      "full": "field_countrycode_option_as",
+      "EN": "American Samoa",
+      "FR": "Samoa Américaines",
+      "active": true,
+      "code": "as"
+    },
+    {
+      "full": "field_countrycode_option_ax",
+      "EN": "Aland Islands",
+      "FR": "Iles Aland",
+      "active": true,
+      "code": "ax"
+    },
+    {
+      "full": "field_countrycode_option_az",
+      "EN": "Azerbaijan",
+      "FR": "Azerbaïdjan",
+      "active": true,
+      "code": "az"
+    },
+    {
+      "full": "field_countrycode_option_ba",
+      "EN": "Bosnia and Herzegovina",
+      "FR": "Bosnie Herzégovine",
+      "active": true,
+      "code": "ba"
+    },
+    {
+      "full": "field_countrycode_option_bb",
+      "EN": "Barbados",
+      "FR": "Barbade",
+      "active": true,
+      "code": "bb"
+    },
+  {
+    "full": "field_countrycode_option_bd",
+      "EN": "Bangladesh",
+      "FR": "Bangladesh",
+      "active": true,
+      "code": "bd"
+    },
+    {
+      "full": "field_countrycode_option_be",
+      "EN": "Belgium",
+      "FR": "Belgique",
+      "active": true,
+      "code": "be"
+    },
+    {
+      "full": "field_countrycode_option_bg",
+      "EN": "Bulgaria",
+      "FR": "Bulgarie",
+      "active": true,
+      "code": "bg"
+    },
+    {
+      "full": "field_countrycode_option_bh",
+      "EN": "Bahrain",
+      "FR": "Bahrein",
+      "active": true,
+      "code": "bh"
+    },
+    {
+      "full": "field_countrycode_option_bi",
+      "EN": "Burundi",
+      "FR": "Burundi",
+      "active": true,
+      "code": "bi"
+    },
+    {
+      "full": "field_countrycode_option_bj",
+      "EN": "Benin",
+      "FR": "Bénin",
+      "active": true,
+      "code": "bj"
+    },
+    {
+      "full": "field_countrycode_option_bl",
+      "EN": "Saint-Barthelemy",
+      "FR": "Saint-Barthélemy",
+      "active": true,
+      "code": "bl"
+    },
+    {
+      "full": "field_countrycode_option_bm",
+      "EN": "Bermuda",
+      "FR": "Bermudes",
+      "active": true,
+      "code": "bm"
+    },
+    {
+      "full": "field_countrycode_option_bn",
+      "EN": "Brunei Darussalam",
+      "FR": "Brunei Darussalam",
+      "active": true,
+      "code": "bn"
+    },
+    {
+      "full": "field_countrycode_option_bo",
+      "EN": "Bolivia",
+      "FR": "Bolivie",
+      "active": true,
+      "code": "bo"
+    },
+    {
+      "full": "field_countrycode_option_br",
+      "EN": "Brazil",
+      "FR": "Brésil",
+      "active": true,
+      "code": "br"
+    },
+    {
+      "full": "field_countrycode_option_bs",
+      "EN": "Bahamas",
+      "FR": "Bahamas",
+      "active": true,
+      "code": "bs"
+    },
+    {
+      "full": "field_countrycode_option_bt",
+      "EN": "Bhutan",
+      "FR": "Bhoutan",
+      "active": true,
+      "code": "bt"
+    },
+    {
+      "full": "field_countrycode_option_bv",
+      "EN": "Bouvet Island",
+      "FR": "Ile Bouvet",
+      "active": true,
+      "code": "bv"
+    },
+    {
+      "full": "field_countrycode_option_bw",
+      "EN": "Botswana",
+      "FR": "Botswana",
+      "active": true,
+      "code": "bw"
+    },
+    {
+      "full": "field_countrycode_option_by",
+      "EN": "Belarus",
+      "FR": "Biélorussie",
+      "active": true,
+      "code": "by"
+    },
+    {
+      "full": "field_countrycode_option_bz",
+      "EN": "Belize",
+      "FR": "Belize",
+    "active": true,
+    "code": "bz"
+  },
+  {
+      "full": "field_countrycode_option_ca",
+      "EN": "Canada",
+      "FR": "Canada",
+      "active": true,
+      "code": "ca"
+    },
+    {
+      "full": "field_countrycode_option_cc",
+      "EN": "Cocos (Keeling) Islands",
+      "FR": "Îles Cocos (Keeling)",
+      "active": true,
+      "code": "cc"
+    },
+    {
+      "full": "field_countrycode_option_cd",
+      "EN": "Democratic Republic of Congo",
+      "FR": "République Démocratique du Congo",
+      "active": true,
+      "code": "cd"
+    },
+    {
+      "full": "field_countrycode_option_cf",
+      "EN": "Central African Republic",
+      "FR": "République centrafricaine",
+      "active": true,
+      "code": "cf"
+    },
+    {
+      "full": "field_countrycode_option_cg",
+      "EN": "Congo",
+      "FR": "Congo",
+      "active": true,
+      "code": "cg"
+    },
+  {
+    "full": "field_countrycode_option_ch",
+    "EN": "Switzerland",
+    "FR": "Suisse",
+    "active": true,
+    "code": "ch"
+  },
+  {
+    "full": "field_countrycode_option_ci",
+    "EN": "Ivory Coast",
+    "FR": "Côte d'Ivoire",
+    "active": true,
+    "code": "ci"
+  },
+  {
+      "full": "field_countrycode_option_ck",
+      "EN": "Cook Islands",
+      "FR": "Îles Cook",
+      "active": true,
+      "code": "ck"
+    },
+    {
+      "full": "field_countrycode_option_cl",
+      "EN": "Chile",
+      "FR": "Chili",
+      "active": true,
+      "code": "cl"
+    },
+    {
+      "full": "field_countrycode_option_cm",
+      "EN": "Cameroon",
+      "FR": "Cameroon",
+      "active": true,
+      "code": "cm"
+    },
+    {
+      "full": "field_countrycode_option_co",
+      "EN": "Colombia",
+      "FR": "Colombie",
+      "active": true,
+      "code": "co"
+    },
+    {
+      "full": "field_countrycode_option_cr",
+      "EN": "Costa Rica",
+      "FR": "Costa Rica",
+      "active": true,
+      "code": "cr"
+    },
+    {
+      "full": "field_countrycode_option_cu",
+      "EN": "Cuba",
+      "FR": "Cuba",
+      "active": true,
+      "code": "cu"
+    },
+    {
+      "full": "field_countrycode_option_cv",
+      "EN": "Cape Verde",
+      "FR": "Cap-Vert",
+      "active": true,
+      "code": "cv"
+    },
+    {
+      "full": "field_countrycode_option_cw",
+      "EN": "Curacao",
+      "FR": "Curacao",
+      "active": true,
+      "code": "cw"
+    },
+    {
+      "full": "field_countrycode_option_cx",
+      "EN": "Christmas Island",
+      "FR": "Ile Christmas",
+      "active": true,
+      "code": "cx"
+    },
+    {
+      "full": "field_countrycode_option_cz",
+      "EN": "Czech Republic",
+      "FR": "République Tchèque",
+      "active": true,
+      "code": "cz"
+    },
+    {
+      "full": "field_countrycode_option_de",
+      "EN": "Germany",
+      "FR": "Allemagne",
+      "active": true,
+      "code": "de"
+    },
+    {
+      "full": "field_countrycode_option_dj",
+      "EN": "Djibouti",
+      "FR": "Djibouti",
+      "active": true,
+      "code": "dj"
+    },
+    {
+      "full": "field_countrycode_option_dk",
+      "EN": "Denmark",
+      "FR": "Danemark",
+      "active": true,
+      "code": "dk"
+    },
+    {
+      "full": "field_countrycode_option_dm",
+      "EN": "Dominica",
+      "FR": "Dominique",
+      "active": true,
+      "code": "dm"
+    },
+    {
+      "full": "field_countrycode_option_do",
+      "EN": "Dominican Republic",
+      "FR": "République Dominicaine",
+      "active": true,
+      "code": "do"
+    },
+    {
+      "full": "field_countrycode_option_dz",
+      "EN": "Algeria",
+      "FR": "Algérie",
+      "active": true,
+      "code": "dz"
+    },
+    {
+      "full": "field_countrycode_option_ec",
+      "EN": "Ecuador",
+      "FR": "Équateur",
+      "active": true,
+      "code": "ec"
+    },
+    {
+      "full": "field_countrycode_option_ee",
+      "EN": "Estonia",
+      "FR": "Estonie",
+      "active": true,
+      "code": "ee"
+    },
+    {
+      "full": "field_countrycode_option_eg",
+      "EN": "Egypt",
+      "FR": "Egypte",
+      "active": true,
+      "code": "eg"
+    },
+    {
+      "full": "field_countrycode_option_eh",
+      "EN": "Western Sahara",
+      "FR": "Sahara occidental",
+      "active": true,
+      "code": "eh"
+    },
+    {
+      "full": "field_countrycode_option_er",
+      "EN": "Eritrea",
+      "FR": "Erythrée",
+      "active": true,
+      "code": "er"
+    },
+  {
+      "full": "field_countrycode_option_es",
+      "EN": "Spain",
+      "FR": "Espagne",
+      "active": true,
+      "code": "es"
+    },
+    {
+      "full": "field_countrycode_option_et",
+      "EN": "Ethiopia",
+      "FR": "Ethiopie",
+      "active": true,
+      "code": "et"
+    },
+    {
+      "full": "field_countrycode_option_fi",
+      "EN": "Finland",
+      "FR": "Finlande",
+      "active": true,
+      "code": "fi"
+    },
+  {
+      "full": "field_countrycode_option_fj",
+      "EN": "Fiji",
+      "FR": "Fidji",
+      "active": true,
+      "code": "fj"
+    },
+    {
+      "full": "field_countrycode_option_fk",
+      "EN": "Falkland Islands (Malvinas)",
+      "FR": "Îles Falkland (Malvines)",
+      "active": true,
+      "code": "fk"
+    },
+    {
+      "full": "field_countrycode_option_fm",
+      "EN": "Micronesia",
+      "FR": "Micronésie",
+      "active": true,
+      "code": "fm"
+    },
+    {
+      "full": "field_countrycode_option_fo",
+      "EN": "Faroe Islands",
+      "FR": "Îles Féroé",
+      "active": true,
+      "code": "fo"
+    },
+    {
+      "full": "field_countrycode_option_fr",
+      "EN": "France",
+      "FR": "France",
+      "active": true,
+      "code": "fr"
+    },
+    {
+      "full": "field_countrycode_option_ga",
+      "EN": "Gabon",
+      "FR": "Gabon",
+      "active": true,
+      "code": "ga"
+    },
+    {
+      "full": "field_countrycode_option_gb",
+      "EN": "United Kingdom",
+      "FR": "Royaume-Uni",
+      "active": true,
+      "code": "gb"
+    },
+    {
+      "full": "field_countrycode_option_gd",
+      "EN": "Grenada",
+      "FR": "Grenade",
+      "active": true,
+      "code": "gd"
+    },
+    {
+      "full": "field_countrycode_option_ge",
+      "EN": "Georgia",
+      "FR": "Géorgie",
+      "active": true,
+      "code": "ge"
+    },
+    {
+      "full": "field_countrycode_option_gf",
+      "EN": "French Guiana",
+      "FR": "Guyane Française",
+      "active": true,
+      "code": "gf"
+    },
+    {
+      "full": "field_countrycode_option_gg",
+      "EN": "Guernsey",
+      "FR": "Guernesey",
+      "active": true,
+      "code": "gg"
+    },
+    {
+      "full": "field_countrycode_option_gh",
+      "EN": "Ghana",
+      "FR": "Ghana",
+      "active": true,
+      "code": "gh"
+    },
+    {
+      "full": "field_countrycode_option_gl",
+      "EN": "Greenland",
+      "FR": "Groenland",
+      "active": true,
+      "code": "gl"
+    },
+    {
+      "full": "field_countrycode_option_gm",
+      "EN": "Gambia",
+      "FR": "Gambie",
+      "active": true,
+      "code": "gm"
+    },
+    {
+      "full": "field_countrycode_option_gn",
+      "EN": "Guinea",
+      "FR": "Guinée",
+      "active": true,
+      "code": "gn"
+    },
+    {
+      "full": "field_countrycode_option_gp",
+      "EN": "Guadeloupe",
+      "FR": "Guadeloupe",
+      "active": true,
+      "code": "gp"
+    },
+    {
+      "full": "field_countrycode_option_gq",
+      "EN": "Equatorial Guinea",
+      "FR": "Guinée Équatoriale",
+      "active": true,
+      "code": "gq"
+    },
+    {
+      "full": "field_countrycode_option_gr",
+      "EN": "Greece",
+      "FR": "Grèce",
+      "active": true,
+      "code": "gr"
+    },
+    {
+      "full": "field_countrycode_option_gs",
+      "EN": "South Georgia and the South Sandwich Islands",
+      "FR": "Géorgie du Sud et Iles Sandwich du Sud",
+      "active": true,
+      "code": "gs"
+    },
+    {
+      "full": "field_countrycode_option_gt",
+      "EN": "Guatemala",
+      "FR": "Guatemala",
+      "active": true,
+      "code": "gt"
+    },
+    {
+      "full": "field_countrycode_option_gu",
+      "EN": "Guam",
+      "FR": "Guam",
+      "active": true,
+      "code": "gu"
+    },
+    {
+      "full": "field_countrycode_option_gw",
+      "EN": "Guinea-Bissau",
+      "FR": "Guinée Bissau",
+      "active": true,
+      "code": "gw"
+    },
+    {
+      "full": "field_countrycode_option_gy",
+      "EN": "Guyana",
+      "FR": "Guyane",
+      "active": true,
+      "code": "gy"
+    },
+    {
+      "full": "field_countrycode_option_hk",
+      "EN": "Hong Kong, Special Administrative Region of China",
+      "FR": "Hong Kong, région administrative spéciale de Chine",
+      "active": true,
+      "code": "hk"
+    },
+    {
+      "full": "field_countrycode_option_hm",
+      "EN": "Heard Island and Mcdonald Islands",
+      "FR": "Heard Island et îles Mcdonald",
+      "active": true,
+      "code": "hm"
+    },
+    {
+      "full": "field_countrycode_option_hn",
+      "EN": "Honduras",
+      "FR": "Honduras",
+      "active": true,
+      "code": "hn"
+    },
+    {
+      "full": "field_countrycode_option_hr",
+      "EN": "Croatia",
+      "FR": "Croatie",
+      "active": true,
+      "code": "hr"
+    },
+    {
+      "full": "field_countrycode_option_hu",
+      "EN": "Hungary",
+      "FR": "Hongrie",
+      "active": true,
+      "code": "hu"
+    },
+    {
+      "full": "field_countrycode_option_id",
+      "EN": "Indonesia",
+      "FR": "Indonésie",
+      "active": true,
+      "code": "id"
+    },
+    {
+      "full": "field_countrycode_option_il",
+      "EN": "Israel",
+      "FR": "Israël",
+      "active": true,
+      "code": "il"
+    },
+    {
+      "full": "field_countrycode_option_im",
+      "EN": "Isle of Man",
+      "FR": "Île de man",
+      "active": true,
+      "code": "im"
+    },
+    {
+      "full": "field_countrycode_option_in",
+      "EN": "India",
+      "FR": "Inde",
+      "active": true,
+      "code": "in"
+    },
+    {
+      "full": "field_countrycode_option_io",
+      "EN": "British Indian Ocean Territory",
+      "FR": "Territoire britannique de l'océan Indien",
+      "active": true,
+      "code": "io"
+    },
+    {
+      "full": "field_countrycode_option_iq",
+      "EN": "Iraq",
+      "FR": "Irak",
+      "active": true,
+      "code": "iq"
+    },
+    {
+      "full": "field_countrycode_option_is",
+      "EN": "Iceland",
+      "FR": "Islande",
+      "active": true,
+      "code": "is"
+    },
+    {
+      "full": "field_countrycode_option_it",
+      "EN": "Italy",
+      "FR": "Italie",
+      "active": true,
+      "code": "it"
+    },
+    {
+      "full": "field_countrycode_option_je",
+      "EN": "Jersey",
+      "FR": "Jersey",
+      "active": true,
+      "code": "je"
+    },
+  {
+    "full": "field_countrycode_option_jm",
+    "EN": "Jamaica",
+    "FR": "Jamaïque",
+    "active": true,
+    "code": "jm"
+  },
+  {
+    "full": "field_countrycode_option_jo",
+    "EN": "Jordan",
+    "FR": "Jordanie",
+    "active": true,
+    "code": "jo"
+  },
+  {
+      "full": "field_countrycode_option_ke",
+      "EN": "Kenya",
+      "FR": "Kenya",
+      "active": true,
+      "code": "ke"
+    },
+    {
+      "full": "field_countrycode_option_kg",
+      "EN": "Kyrgyzstan",
+      "FR": "Kirghizistan",
+      "active": true,
+      "code": "kg"
+    },
+    {
+      "full": "field_countrycode_option_kh",
+      "EN": "Cambodia",
+      "FR": "Cambodge",
+      "active": true,
+      "code": "kh"
+    },
+    {
+      "full": "field_countrycode_option_ki",
+      "EN": "Kiribati",
+      "FR": "Kiribati",
+      "active": true,
+      "code": "ki"
+    },
+    {
+      "full": "field_countrycode_option_km",
+      "EN": "Comoros",
+      "FR": "Comores",
+      "active": true,
+      "code": "km"
+    },
+    {
+      "full": "field_countrycode_option_kn",
+      "EN": "Saint Kitts and Nevis",
+      "FR": "Saint-Christophe-et-Niévès",
+      "active": true,
+      "code": "kn"
+    },
+    {
+      "full": "field_countrycode_option_kp",
+      "EN": "The North Korea",
+      "FR": "Corée du Nord",
+      "active": true,
+      "code": "kp"
+    },
+    {
+      "full": "field_countrycode_option_kr",
+      "EN": "Republic of Korea",
+      "FR": "Corée du Sud",
+      "active": true,
+      "code": "kr"
+    },
+    {
+      "full": "field_countrycode_option_kw",
+      "EN": "Kuwait",
+      "FR": "Koweit",
+      "active": true,
+      "code": "kw"
+    },
+    {
+      "full": "field_countrycode_option_ky",
+      "EN": "Cayman Islands",
+      "FR": "Îles Caïmans",
+      "active": true,
+      "code": "ky"
+    },
+    {
+      "full": "field_countrycode_option_kz",
+      "EN": "Kazakhstan",
+      "FR": "Kazakhstan",
+      "active": true,
+      "code": "kz"
+    },
+    {
+      "full": "field_countrycode_option_la",
+      "EN": "Lao PDR",
+      "FR": "Laos",
+      "active": true,
+      "code": "la"
+    },
+    {
+      "full": "field_countrycode_option_lb",
+      "EN": "Lebanon",
+      "FR": "Liban",
+      "active": true,
+      "code": "lb"
+    },
+    {
+      "full": "field_countrycode_option_lc",
+      "EN": "Saint Lucia",
+      "FR": "Sainte Lucie",
+      "active": true,
+      "code": "lc"
+    },
+    {
+      "full": "field_countrycode_option_li",
+      "EN": "Liechtenstein",
+      "FR": "Liechtenstein",
+      "active": true,
+      "code": "li"
+    },
+    {
+      "full": "field_countrycode_option_lk",
+      "EN": "Sri Lanka",
+      "FR": "Sri Lanka",
+      "active": true,
+      "code": "lk"
+    },
+    {
+      "full": "field_countrycode_option_lr",
+      "EN": "Liberia",
+      "FR": "Libéria",
+      "active": true,
+      "code": "lr"
+    },
+    {
+      "full": "field_countrycode_option_ls",
+      "EN": "Lesotho",
+      "FR": "Lesotho",
+      "active": true,
+      "code": "ls"
+    },
+    {
+      "full": "field_countrycode_option_lt",
+      "EN": "Lithuania",
+      "FR": "Lituanie",
+      "active": true,
+      "code": "lt"
+    },
+    {
+      "full": "field_countrycode_option_lu",
+      "EN": "Luxembourg",
+      "FR": "Luxembourg",
+      "active": true,
+      "code": "lu"
+    },
+    {
+      "full": "field_countrycode_option_lv",
+      "EN": "Latvia",
+      "FR": "Lettonie",
+      "active": true,
+      "code": "lv"
+    },
+    {
+      "full": "field_countrycode_option_ly",
+      "EN": "Libya",
+      "FR": "Libye",
+      "active": true,
+      "code": "ly"
+    },
+    {
+      "full": "field_countrycode_option_ma",
+      "EN": "Morocco",
+      "FR": "Maroc",
+      "active": true,
+      "code": "ma"
+    },
+    {
+      "full": "field_countrycode_option_mc",
+      "EN": "Monaco",
+      "FR": "Monaco",
+      "active": true,
+      "code": "mc"
+    },
+    {
+      "full": "field_countrycode_option_md",
+      "EN": "Moldova",
+      "FR": "Moldavie",
+      "active": true,
+      "code": "md"
+    },
+    {
+      "full": "field_countrycode_option_me",
+      "EN": "Montenegro",
+      "FR": "Monténégro",
+      "active": true,
+      "code": "me"
+    },
+    {
+      "full": "field_countrycode_option_mf",
+      "EN": "Saint-Martin (French part)",
+      "FR": "Saint-Martin (partie française)",
+      "active": true,
+      "code": "mf"
+    },
+    {
+      "full": "field_countrycode_option_mg",
+      "EN": "Madagascar",
+      "FR": "Madagascar",
+      "active": true,
+      "code": "mg"
+    },
+    {
+      "full": "field_countrycode_option_mh",
+      "EN": "Marshall Islands",
+      "FR": "Iles Marshall",
+      "active": true,
+      "code": "mh"
+    },
+    {
+      "full": "field_countrycode_option_mk",
+      "EN": "Macedonia",
+      "FR": "Macédoine",
+      "active": true,
+      "code": "mk"
+    },
+    {
+      "full": "field_countrycode_option_mn",
+      "EN": "Mongolia",
+      "FR": "Mongolie",
+      "active": true,
+      "code": "mn"
+    },
+    {
+      "full": "field_countrycode_option_mo",
+      "EN": "Macao, Special Administrative Region of China",
+      "FR": "Macao, région administrative spéciale de Chine",
+      "active": true,
+      "code": "mo"
+    },
+    {
+      "full": "field_countrycode_option_mp",
+      "EN": "Northern Mariana Islands",
+      "FR": "Îles Mariannes du Nord",
+      "active": true,
+      "code": "mp"
+    },
+    {
+      "full": "field_countrycode_option_mq",
+      "EN": "Martinique",
+      "FR": "Martinique",
+      "active": true,
+      "code": "mq"
+    },
+    {
+      "full": "field_countrycode_option_mr",
+      "EN": "Mauritania",
+      "FR": "Mauritanie",
+      "active": true,
+      "code": "mr"
+    },
+    {
+      "full": "field_countrycode_option_ms",
+      "EN": "Montserrat",
+      "FR": "Montserrat",
+      "active": true,
+      "code": "ms"
+    },
+    {
+      "full": "field_countrycode_option_mt",
+      "EN": "Malta",
+      "FR": "Malte",
+      "active": true,
+      "code": "mt"
+    },
+    {
+      "full": "field_countrycode_option_mu",
+      "EN": "Mauritius",
+      "FR": "Maurice",
+      "active": true,
+      "code": "mu"
+    },
+    {
+      "full": "field_countrycode_option_mv",
+      "EN": "Maldives",
+      "FR": "Maldives",
+      "active": true,
+      "code": "mv"
+    },
+    {
+      "full": "field_countrycode_option_mw",
+      "EN": "Malawi",
+      "FR": "Malawi",
+      "active": true,
+      "code": "mw"
+    },
+    {
+      "full": "field_countrycode_option_mx",
+      "EN": "Mexico",
+      "FR": "Mexique",
+      "active": true,
+      "code": "mx"
+    },
+    {
+      "full": "field_countrycode_option_my",
+      "EN": "Malaysia",
+      "FR": "Malaisie",
+      "active": true,
+      "code": "my"
+    },
+    {
+      "full": "field_countrycode_option_mz",
+      "EN": "Mozambique",
+      "FR": "Mozambique",
+      "active": true,
+      "code": "mz"
+    },
+    {
+      "full": "field_countrycode_option_na",
+      "EN": "Namibia",
+      "FR": "Namibie",
+      "active": true,
+      "code": "na"
+    },
+    {
+      "full": "field_countrycode_option_nc",
+      "EN": "New Caledonia",
+      "FR": "Nouvelle Calédonie",
+      "active": true,
+      "code": "nc"
+    },
+    {
+      "full": "field_countrycode_option_ne",
+      "EN": "Niger",
+      "FR": "Niger",
+      "active": true,
+      "code": "ne"
+    },
+    {
+      "full": "field_countrycode_option_nf",
+      "EN": "Norfolk Island",
+      "FR": "Ile de Norfolk",
+      "active": true,
+      "code": "nf"
+    },
+    {
+      "full": "field_countrycode_option_ng",
+      "EN": "Nigeria",
+      "FR": "Nigeria",
+      "active": true,
+      "code": "ng"
+    },
+    {
+      "full": "field_countrycode_option_ni",
+      "EN": "Nicaragua",
+      "FR": "Nicaragua",
+      "active": true,
+      "code": "ni"
+    },
+    {
+      "full": "field_countrycode_option_nl",
+      "EN": "Netherlands",
+      "FR": "Pays-Bas",
+      "active": true,
+      "code": "nl"
+    },
+    {
+      "full": "field_countrycode_option_no",
+      "EN": "Norway",
+      "FR": "Norvège",
+      "active": true,
+      "code": "no"
+    },
+    {
+      "full": "field_countrycode_option_np",
+      "EN": "Nepal",
+      "FR": "Népal",
+      "active": true,
+      "code": "np"
+    },
+    {
+      "full": "field_countrycode_option_nr",
+      "EN": "Nauru",
+      "FR": "Nauru",
+      "active": true,
+      "code": "nr"
+    },
+    {
+      "full": "field_countrycode_option_nu",
+      "EN": "Niue",
+      "FR": "Niue",
+      "active": true,
+      "code": "nu"
+    },
+    {
+      "full": "field_countrycode_option_nz",
+      "EN": "New Zealand",
+      "FR": "Nouvelle-Zélande",
+      "active": true,
+      "code": "nz"
+    },
+    {
+      "full": "field_countrycode_option_om",
+      "EN": "Oman",
+      "FR": "Oman",
+      "active": true,
+      "code": "om"
+    },
+    {
+      "full": "field_countrycode_option_pa",
+      "EN": "Panama",
+      "FR": "Panama",
+      "active": true,
+      "code": "pa"
+    },
+    {
+      "full": "field_countrycode_option_pe",
+      "EN": "Peru",
+      "FR": "Pérou",
+      "active": true,
+      "code": "pe"
+    },
+    {
+      "full": "field_countrycode_option_pf",
+      "EN": "French Polynesia",
+      "FR": "Polynésie française",
+      "active": true,
+      "code": "pf"
+    },
+    {
+      "full": "field_countrycode_option_pg",
+      "EN": "Papua New Guinea",
+      "FR": "Papouasie Nouvelle Guinée",
+      "active": true,
+      "code": "pg"
+    },
+    {
+      "full": "field_countrycode_option_ph",
+      "EN": "Philippines",
+      "FR": "Philippines",
+      "active": true,
+      "code": "ph"
+    },
+    {
+      "full": "field_countrycode_option_pk",
+      "EN": "Pakistan",
+      "FR": "Pakistan",
+      "active": true,
+      "code": "pk"
+    },
+    {
+      "full": "field_countrycode_option_pl",
+      "EN": "Poland",
+      "FR": "Pologne",
+      "active": true,
+      "code": "pl"
+    },
+    {
+      "full": "field_countrycode_option_pm",
+      "EN": "Saint Pierre and Miquelon",
+      "FR": "Saint Pierre et Miquelon",
+      "active": true,
+      "code": "pm"
+    },
+    {
+      "full": "field_countrycode_option_pn",
+      "EN": "Pitcairn",
+      "FR": "Pitcairn",
+      "active": true,
+      "code": "pn"
+    },
+    {
+      "full": "field_countrycode_option_pr",
+      "EN": "Puerto Rico",
+      "FR": "Porto Rico",
+      "active": true,
+      "code": "pr"
+    },
+    {
+      "full": "field_countrycode_option_ps",
+      "EN": "Palestinian Territory",
+      "FR": "Territoire Palestinien",
+      "active": true,
+      "code": "ps"
+    },
+    {
+      "full": "field_countrycode_option_pt",
+      "EN": "Portugal",
+      "FR": "Portugal",
+      "active": true,
+      "code": "pt"
+    },
+    {
+      "full": "field_countrycode_option_pw",
+      "EN": "Palau",
+      "FR": "Palau",
+      "active": true,
+      "code": "pw"
+    },
+    {
+      "full": "field_countrycode_option_py",
+      "EN": "Paraguay",
+      "FR": "Paraguay",
+      "active": true,
+      "code": "py"
+    },
+    {
+      "full": "field_countrycode_option_qa",
+      "EN": "Qatar",
+      "FR": "Qatar",
+      "active": true,
+      "code": "qa"
+    },
+    {
+      "full": "field_countrycode_option_re",
+      "EN": "Reunion",
+      "FR": "Réunion",
+      "active": true,
+      "code": "re"
+    },
+    {
+      "full": "field_countrycode_option_ro",
+      "EN": "Romania",
+      "FR": "Roumanie",
+      "active": true,
+      "code": "ro"
+    },
+  {
+    "full": "field_countrycode_option_rs",
+    "EN": "Serbia",
+    "FR": "Serbie",
+    "active": true,
+    "code": "rs"
+  },
+  {
+      "full": "field_countrycode_option_ru",
+      "EN": "Russian Federation",
+      "FR": "Russie",
+      "active": true,
+      "code": "ru"
+    },
+    {
+      "full": "field_countrycode_option_rw",
+      "EN": "Rwanda",
+      "FR": "Rwanda",
+      "active": true,
+      "code": "rw"
+    },
+    {
+      "full": "field_countrycode_option_sa",
+      "EN": "Saudi Arabia",
+      "FR": "Arabie Saoudite",
+      "active": true,
+      "code": "sa"
+    },
+    {
+      "full": "field_countrycode_option_sb",
+      "EN": "Solomon Islands",
+      "FR": "Iles Salomon",
+      "active": true,
+      "code": "sb"
+    },
+    {
+      "full": "field_countrycode_option_sc",
+      "EN": "Seychelles",
+      "FR": "Seychelles",
+      "active": true,
+      "code": "sc"
+    },
+    {
+      "full": "field_countrycode_option_sd",
+      "EN": "Sudan",
+      "FR": "Soudan",
+      "active": true,
+      "code": "sd"
+    },
+    {
+      "full": "field_countrycode_option_se",
+      "EN": "Sweden",
+      "FR": "Suède",
+      "active": true,
+      "code": "se"
+    },
+    {
+      "full": "field_countrycode_option_sg",
+      "EN": "Singapore",
+      "FR": "Singapour",
+      "active": true,
+      "code": "sg"
+    },
+    {
+      "full": "field_countrycode_option_sh",
+      "EN": "Saint Helena",
+      "FR": "Sainte Hélène",
+      "active": true,
+      "code": "sh"
+    },
+  {
+      "full": "field_countrycode_option_si",
+      "EN": "Slovenia",
+      "FR": "Slovénie",
+      "active": true,
+      "code": "si"
+    },
+    {
+      "full": "field_countrycode_option_sj",
+      "EN": "Svalbard and Jan Mayen Islands",
+      "FR": "Iles Svalbard et Jan Mayen",
+      "active": true,
+      "code": "sj"
+    },
+    {
+      "full": "field_countrycode_option_sk",
+      "EN": "Slovakia",
+      "FR": "Slovaquie",
+      "active": true,
+      "code": "sk"
+    },
+    {
+      "full": "field_countrycode_option_sl",
+      "EN": "Sierra Leone",
+      "FR": "Sierra Leone",
+      "active": true,
+      "code": "sl"
+    },
+    {
+      "full": "field_countrycode_option_sm",
+      "EN": "San Marino",
+      "FR": "Saint Marin",
+      "active": true,
+      "code": "sm"
+    },
+    {
+      "full": "field_countrycode_option_sn",
+      "EN": "Senegal",
+      "FR": "Sénégal",
+      "active": true,
+      "code": "sn"
+    },
+    {
+      "full": "field_countrycode_option_so",
+      "EN": "Somalia",
+      "FR": "Somalie",
+      "active": true,
+      "code": "so"
+    },
+    {
+      "full": "field_countrycode_option_sr",
+      "EN": "Suriname",
+      "FR": "Suriname",
+      "active": true,
+      "code": "sr"
+    },
+    {
+      "full": "field_countrycode_option_st",
+      "EN": "Sao Tome and Principe",
+      "FR": "Sao Tomé et Principe",
+      "active": true,
+      "code": "st"
+    },
+    {
+      "full": "field_countrycode_option_sv",
+      "EN": "El Salvador",
+      "FR": "Salvador",
+      "active": true,
+      "code": "sv"
+    },
+    {
+      "full": "field_countrycode_option_sx",
+      "EN": "Sint Maarten",
+      "FR": "Saint Martin",
+      "active": true,
+      "code": "sx"
+    },
+    {
+      "full": "field_countrycode_option_sy",
+      "EN": "Syrian Arab Republic (Syria)",
+      "FR": "Syrie",
+      "active": true,
+      "code": "sy"
+    },
+    {
+      "full": "field_countrycode_option_sz",
+      "EN": "Swaziland",
+      "FR": "Swaziland",
+      "active": true,
+      "code": "sz"
+    },
+    {
+      "full": "field_countrycode_option_tc",
+      "EN": "Turks and Caicos Islands",
+      "FR": "Iles Turques-et-Caïques",
+      "active": true,
+      "code": "tc"
+    },
+    {
+      "full": "field_countrycode_option_td",
+      "EN": "Chad",
+      "FR": "Tchad",
+      "active": true,
+      "code": "td"
+    },
+  {
+    "full": "field_countrycode_option_tf",
+    "EN": "French Polynesia",
+    "FR": "Polynésie française",
+    "active": true,
+    "code": "tf"
+  },
+  {
+    "full": "field_countrycode_option_tg",
+    "EN": "Togo",
+    "FR": "Togo",
+    "active": true,
+    "code": "tg"
+  },
+  {
+    "full": "field_countrycode_option_th",
+    "EN": "Thailand",
+    "FR": "Thaïlande",
+    "active": true,
+    "code": "th"
+  },
+  {
+      "full": "field_countrycode_option_tj",
+      "EN": "Tajikistan",
+      "FR": "Tadjikistan",
+      "active": true,
+      "code": "tj"
+    },
+    {
+      "full": "field_countrycode_option_tk",
+      "EN": "Tokelau",
+      "FR": "Tokélaou",
+      "active": true,
+      "code": "tk"
+    },
+    {
+      "full": "field_countrycode_option_tl",
+      "EN": "Timor-Leste",
+      "FR": "Timor-Leste",
+      "active": true,
+      "code": "tl"
+    },
+    {
+      "full": "field_countrycode_option_tm",
+      "EN": "Turkmenistan",
+      "FR": "Turkménistan",
+      "active": true,
+      "code": "tm"
+    },
+  {
+    "full": "field_countrycode_option_tn",
+    "EN": "Tunisia",
+    "FR": "Tunisie",
+    "active": true,
+    "code": "tn"
+  },
+  {
+    "full": "field_countrycode_option_to",
+      "EN": "Tonga",
+      "FR": "Tonga",
+      "active": true,
+      "code": "to"
+    },
+    {
+      "full": "field_countrycode_option_tr",
+      "EN": "Turkey",
+      "FR": "Turquie",
+      "active": true,
+      "code": "tr"
+    },
+    {
+      "full": "field_countrycode_option_tt",
+      "EN": "Trinidad and Tobago",
+      "FR": "Trinidad-et-Tobago",
+      "active": true,
+      "code": "tt"
+    },
+    {
+      "full": "field_countrycode_option_tv",
+      "EN": "Tuvalu",
+      "FR": "Tuvalu",
+      "active": true,
+      "code": "tv"
+    },
+    {
+      "full": "field_countrycode_option_tw",
+      "EN": "Taiwan, Republic of China",
+      "FR": "Taiwan, République de Chine",
+      "active": true,
+      "code": "tw"
+    },
+    {
+      "full": "field_countrycode_option_tz",
+      "EN": "Tanzania",
+      "FR": "Tanzanie",
+      "active": true,
+      "code": "tz"
+    },
+    {
+      "full": "field_countrycode_option_ua",
+      "EN": "Ukraine",
+      "FR": "Ukraine",
+      "active": true,
+      "code": "ua"
+    },
+    {
+      "full": "field_countrycode_option_ug",
+      "EN": "Uganda",
+      "FR": "Ouganda",
+      "active": true,
+      "code": "ug"
+    },
+  {
+    "full": "field_countrycode_option_um",
+    "EN": "United States Minor Outlying Islands",
+    "FR": "Îles mineures éloignées des États-Unis",
+    "active": true,
+    "code": "um"
+  },
+  {
+    "full": "field_countrycode_option_uy",
+    "EN": "Uruguay",
+    "FR": "Uruguay",
+    "active": true,
+    "code": "uy"
+  },
+  {
+    "full": "field_countrycode_option_uz",
+    "EN": "Uzbekistan",
+    "FR": "Ouzbekistan",
+    "active": true,
+    "code": "uz"
+  },
+  {
+    "full": "field_countrycode_option_va",
+      "EN": "Holy See (Vatican City State)",
+      "FR": "Saint-Siège (État de la cité du Vatican)",
+      "active": true,
+      "code": "va"
+    },
+  {
+    "full": "field_countrycode_option_vc",
+    "EN": "Saint Vincent and Grenadines",
+    "FR": "Saint Vincent et les Grenadines",
+    "active": true,
+    "code": "vc"
+  },
+  {
+    "full": "field_countrycode_option_ve",
+    "EN": "Venezuela",
+      "FR": "Venezuela",
+    "active": true,
+    "code": "ve"
+  },
+  {
+    "full": "field_countrycode_option_vg",
+      "EN": "British Virgin Islands",
+      "FR": "Îles Vierges britanniques",
+      "active": true,
+      "code": "vg"
+    },
+  {
+    "full": "field_countrycode_option_vi",
+      "EN": "Virgin Islands, US",
+      "FR": "Îles Vierges américaines",
+      "active": true,
+      "code": "vi"
+    },
+    {
+      "full": "field_countrycode_option_vn",
+      "EN": "Vietnam",
+      "FR": "Viêt-Nam",
+      "active": true,
+      "code": "vn"
+    },
+    {
+      "full": "field_countrycode_option_vu",
+      "EN": "Vanuatu",
+      "FR": "Vanuatu",
+      "active": true,
+      "code": "vu"
+    },
+    {
+      "full": "field_countrycode_option_wf",
+      "EN": "Wallis and Futuna Islands",
+      "FR": "Wallis et Futuna",
+      "active": true,
+      "code": "wf"
+    },
+    {
+      "full": "field_countrycode_option_ws",
+      "EN": "Samoa",
+      "FR": "Samoa",
+      "active": true,
+      "code": "ws"
+    },
+    {
+      "full": "field_countrycode_option_xk",
+      "EN": "Kosovo",
+      "FR": "Kosovo",
+      "active": true,
+      "code": "xk"
+    },
+    {
+      "full": "field_countrycode_option_ye",
+      "EN": "Yemen",
+      "FR": "Yémen",
+      "active": true,
+      "code": "ye"
+    },
+    {
+      "full": "field_countrycode_option_yt",
+      "EN": "Mayotte",
+      "FR": "Mayotte",
+      "active": true,
+      "code": "yt"
+    },
+    {
+      "full": "field_countrycode_option_za",
+      "EN": "South Africa",
+      "FR": "Afrique du Sud",
+      "active": true,
+      "code": "za"
+    },
+    {
+      "full": "field_countrycode_option_zm",
+      "EN": "Zambia",
+      "FR": "Zambie",
+      "active": true,
+      "code": "zm"
+    },
+    {
+      "full": "field_countrycode_option_zw",
+      "EN": "Zimbabwe",
+      "FR": "Zimbabwe",
+      "active": true,
+      "code": "zw"
+    }
+]

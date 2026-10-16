@@ -1,0 +1,1 @@
+export { CryptoBanner } from './CryptoBanner';
